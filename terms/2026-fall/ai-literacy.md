@@ -1,0 +1,77 @@
+---
+layout: default
+title: AI Literacy — Agenda
+---
+
+# AI Literacy — Agenda
+
+[← Back to all classes](../../index.html)
+
+## Week 3 (Sept 8–11)
+
+### Friday, Sept 11
+- Two-tool testing: tested your recommendation file against an unfamiliar AI tool and your preferred tool, on three questions of increasing difficulty
+- Ethics discussion (started)
+
+### Thursday, Sept 10
+- Precision exercise + peer feedback — finalized your recommendation-context file
+- Round 1 testing: asked AI tools for recommendations based on your file
+- Asked the AI tool to suggest a revision to your own prompt
+
+### Wednesday, Sept 9
+- aReading
+- Sentence Variety journal (grammar)
+
+### Tuesday, Sept 8
+- AIedu journal: "At Your Service" (the robot-hotel scenario)
+- Started your Recommendation Context File (Google Doc) — a file describing yourself to help an AI make personalized recommendations
+
+## Week 2 (Aug 31–Sept 4)
+
+### Friday, Sept 4
+- AI Use Checklist
+- Ethics activity (ran into technical issues, replanned)
+
+### Thursday, Sept 3
+- "Whose Fault Is It?" sort and discussion (Writer's Fault / User's Fault / Genuinely Ambiguous)
+- Failure Log entry, based on real feedback collected in study hall
+- Reflective writing on today's testing
+
+### Wednesday, Sept 2
+- Got feedback on your Troubleshooting Manual instructions from real readers in study hall
+- Grammar journal (garden-path sentences)
+
+### Tuesday, Sept 1
+- AIedu journal
+- Third AI Blind Draw attempt
+- "Precision Is a Choice": swapped one word in a quote, asked AI to verify it, and compared the original vs. modified version
+- Troubleshooting Manual work time
+
+### Monday, Aug 31
+- Second AI Blind Draw attempt (AI describes a hidden image step-by-step, sight unseen)
+
+## Week 1 (Aug 24–28)
+
+### Friday, Aug 28
+- "Audience Changes Everything": Blind Draw activity — one partner gives instructions, the other tries to reproduce a drawing without seeing the original
+
+### Thursday, Aug 27
+- Introduced the Troubleshooting Manual project — essential questions, what's graded, sample topics, common misconceptions
+- Brainstormed three possible topics; most reached the Topic Proposal
+
+### Wednesday, Aug 26
+- Turn-and-talk on Tuesday's AI-revised instructions
+- AI Use Checklist
+- First Failure Log entry (a LEGO or AI failure)
+- Failure Analysis in groups
+
+### Tuesday, Aug 25
+- Signed into Google Classroom
+- Used an AI chatbot to revise your LEGO instructions
+
+### Monday, Aug 24
+- LEGO Instruction Challenge: built something, wrote directions, then swapped and revised a partner's directions
+
+---
+
+**Note:** the exact day boundary for the Aug 31–Sept 1 stretch is a little fuzzy in the source notes — if something looks off for those two days specifically, ask Mr. Klett rather than assuming this page has it exactly right.

@@ -1,0 +1,77 @@
+---
+layout: default
+title: Dystopian Literature — Agenda
+---
+
+# Dystopian Literature — Agenda
+
+[← Back to all classes](../../index.html)
+
+## Week 3 (Sept 8–11)
+
+### Friday, Sept 11
+- Journal:
+  > Being believed and being correct are not the same thing. True or not true in your novel? Give one line of evidence — include the author's last name and page number in parentheses at the end.
+  >
+  > Ex. "But the tears are necessary. Don't you remember what Othello said? 'If after every tempest came such calms, may the winds blow till they have wakened death.'" (Huxley 244)
+- Independent reading
+- Exit ticket (Google Classroom, prompt above)
+
+### Thursday, Sept 10
+- Read "Author/ity" excerpt (Theory Toolbox Ch. 2)
+- Brief discussion
+- Grammar: Predicates & Modifiers (started)
+
+### Wednesday, Sept 9
+- aReading
+- Independent reading
+
+### Tuesday, Sept 8
+- Independent reading
+- Lit Terms Tuesday: Storytelling Arc
+
+## Week 2 (Aug 31–Sept 4)
+
+### Friday, Sept 4
+- Journal:
+  > Everything is suspicious. What elements are suspicious in the novel you are reading? What are the natural facts of the world in which the characters live? What is the power structure of the world? Does that power structure control people through visible force, or through something more like internalized surveillance? What is the conflict between the character and the power structure?
+- Independent reading
+- Exit ticket: shared the most interesting idea from your journal and why
+
+### Thursday, Sept 3
+- Independent reading
+- Theory Toolbox Ch. 1: "Why Theory?"
+
+### Wednesday, Sept 2
+- Independent reading
+- Grammar/writing activity (Thesis Statements)
+
+### Tuesday, Sept 1
+- Independent reading
+- Lit Terms Tuesday: Theme
+
+### Monday, Aug 31
+- Independent reading
+- Group discussion of Auden's "The Unknown Citizen"
+
+## Week 1 (Aug 24–28)
+
+### Friday, Aug 28
+- Independent reading
+- "Harrison Bergeron" wrap-up discussion
+
+### Thursday, Aug 27
+- Books checked out (independent reading)
+- One-sentence summary of "Harrison Bergeron"
+
+### Wednesday, Aug 26
+- "Characterize" activity: chose a character from "Harrison Bergeron" and filled out a chart (Description, Actions, Dialogue, Interior Monologue)
+
+### Tuesday, Aug 25
+- Intro deck bridging the Panopticon reading to "Harrison Bergeron"
+- Read "Harrison Bergeron" (Vonnegut) in full
+
+### Monday, Aug 24
+- Syllabus review
+- "Citizen Compliance Assessment" survey
+- Read a Foucault excerpt on the panopticon
