@@ -26,7 +26,7 @@ title: Computer Science — Agenda
 - Vocab hunt (DHCP, IP address, malware) while working through CertMaster
 - CertMaster work time (Module 1.1)
 - Discussion: what does digital citizenship mean?
-- Exit journal: "A good digital citizen ___, but a bad one ___."
+- Exit journal: "A good digital citizen \_\_\_, but a bad one \_\_\_."
 
 ### Tuesday, Sept 8
 - CertMaster Learn access confirmed — logged in and started Module 1
