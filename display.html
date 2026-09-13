@@ -33,10 +33,12 @@ layout: null
   #idle-list { display: flex; flex-direction: column; gap: 1.2em; max-width: 90%; }
   #idle-list div { font-size: clamp(1.2rem, 4vmin, 2.5rem); overflow-wrap: break-word; }
   #idle-list span { color: #9ad; font-weight: 700; }
+  #debug { position: fixed; bottom: 1vmin; left: 1vmin; font-size: 14px; color: #444; font-family: monospace; }
 </style>
 </head>
 <body>
 <div id="clock"></div>
+<div id="debug"></div>
 <div id="screen">
   <div id="course-name">Loading…</div>
   <div id="period-label"></div>
@@ -204,6 +206,17 @@ requestWakeLock();
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") requestWakeLock();
 });
+
+// Temporary diagnostic: shows the actual CSS viewport size and device
+// pixel ratio in the corner, so a screen that's rendering unexpectedly
+// small/cramped can be diagnosed from a photo instead of guessed at.
+// Safe to remove once the sizing issue is confirmed fixed.
+function updateDebug() {
+  document.getElementById("debug").textContent =
+    `${window.innerWidth}x${window.innerHeight} @ dpr=${window.devicePixelRatio}`;
+}
+updateDebug();
+window.addEventListener("resize", updateDebug);
 </script>
 </body>
 </html>
