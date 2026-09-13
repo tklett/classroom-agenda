@@ -123,7 +123,29 @@ by direct URL or by browsing the repo, just no longer linked from the
 homepage. This is deliberate: "there for someone hunting, not on the
 homepage."
 
-## 6. Site settings
+## 6. Classroom display (`display.html`)
+
+A separate, schedule-aware kiosk page for the classroom Chromebook —
+not linked from the student-facing nav (no `title` in its front
+matter, `layout: null`). It fetches all five course pages client-side,
+pulls their `#next-class` section (a stable heading id — see the
+"Kramdown gotcha" note below on why the heading text itself must stay
+plain `## Next Class`, with the date/note as body text underneath, not
+in the heading), and shows whichever course's bell-schedule period is
+currently active, full-screen. Outside class periods it falls back to
+a slow rotation through all five as a "Coming Up Today" idle screen.
+
+The bell schedule (two variants — Wed runs shorter periods) is hardcoded
+in `display.html`'s `SCHEDULE` object. **If the bell schedule changes,
+update it there** — it has no other source of truth.
+
+Content re-fetches every 5 minutes, so editing a "Next Class" box
+reaches the display within that window without touching the Chromebook.
+Load `display.html`'s URL in Chrome kiosk mode (`chrome --kiosk <url>`,
+or Chrome OS's own kiosk-app setup) so it runs full-screen with no
+browser chrome.
+
+## 7. Site settings
 
 - Pull requests and Issues are disabled (Settings → General → Features)
   — this repo has no collaboration workflow, so leaving them on just

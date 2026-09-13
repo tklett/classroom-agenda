@@ -1,0 +1,182 @@
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Classroom Display</title>
+<style>
+  html, body {
+    margin: 0; padding: 0; height: 100%;
+    background: #111; color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    overflow: hidden;
+  }
+  #screen {
+    display: flex; flex-direction: column; justify-content: center;
+    height: 100vh; box-sizing: border-box; padding: 4vw 6vw;
+  }
+  #course-name { font-size: 6vw; font-weight: 700; margin: 0 0 0.5em 0; }
+  #period-label { font-size: 2vw; color: #9ad; margin: 0 0 1em 0; text-transform: uppercase; letter-spacing: 0.05em; }
+  #plan-date { font-size: 2.2vw; color: #ddd; margin: 0 0 0.6em 0; }
+  #plan-note { font-size: 1.6vw; color: #999; margin: 0 0 1em 0; font-style: italic; }
+  #bullets { font-size: 3vw; line-height: 1.5; padding-left: 1.2em; margin: 0; }
+  #bullets li { margin-bottom: 0.4em; }
+  #clock { position: fixed; top: 2vw; right: 3vw; font-size: 1.6vw; color: #777; }
+  #idle-list { display: flex; flex-direction: column; gap: 1.2em; }
+  #idle-list div { font-size: 2.2vw; }
+  #idle-list span { color: #9ad; font-weight: 700; }
+</style>
+</head>
+<body>
+<div id="clock"></div>
+<div id="screen">
+  <div id="course-name">Loading…</div>
+  <div id="period-label"></div>
+  <div id="plan-date"></div>
+  <div id="plan-note"></div>
+  <ul id="bullets"></ul>
+  <div id="idle-list" style="display:none;"></div>
+</div>
+
+<script>
+const COURSES = [
+  { key: "ap-lang-dmacc-comp", name: "AP Lang / DMACC Comp", url: "{{ '/terms/2026-fall/ap-lang-dmacc-comp.html' | relative_url }}" },
+  { key: "senior-capstone",    name: "Senior Capstone",       url: "{{ '/terms/2026-fall/senior-capstone.html' | relative_url }}" },
+  { key: "ai-literacy",        name: "AI Literacy",           url: "{{ '/terms/2026-fall/ai-literacy.html' | relative_url }}" },
+  { key: "dystopian-lit",      name: "Dystopian Literature",  url: "{{ '/terms/2026-fall/dystopian-lit.html' | relative_url }}" },
+  { key: "computer-science",   name: "Computer Science",      url: "{{ '/terms/2026-fall/computer-science.html' | relative_url }}" },
+];
+
+// Bell schedule, in minutes since midnight. Each entry maps a course key to
+// [start, end]. "mwf" covers Mon/Tue/Thu/Fri (same schedule); "wed" is its
+// own shorter-period day.
+function toMin(hhmm) {
+  const [h, m] = hhmm.split(":").map(Number);
+  return h * 60 + m;
+}
+const SCHEDULE = {
+  mtthf: [
+    ["ap-lang-dmacc-comp", "9:51", "10:36"],
+    ["ap-lang-dmacc-comp", "10:39", "11:24"],
+    ["senior-capstone",    "11:51", "12:36"],
+    ["ai-literacy",        "12:39", "13:24"],
+    ["dystopian-lit",      "13:27", "14:12"],
+    ["computer-science",   "14:15", "15:00"],
+  ],
+  wed: [
+    ["ap-lang-dmacc-comp", "9:33", "10:09"],
+    ["ap-lang-dmacc-comp", "10:12", "10:48"],
+    ["senior-capstone",    "11:08", "11:48"],
+    ["ai-literacy",        "11:51", "12:27"],
+    ["dystopian-lit",      "12:30", "13:06"],
+    ["computer-science",   "13:09", "13:45"],
+  ],
+};
+
+function currentCourseKey(now) {
+  const day = now.getDay(); // 0=Sun ... 3=Wed
+  const todaySchedule = day === 3 ? SCHEDULE.wed : SCHEDULE.mtthf;
+  const nowMin = now.getHours() * 60 + now.getMinutes();
+  for (const [key, start, end] of todaySchedule) {
+    if (nowMin >= toMin(start) && nowMin < toMin(end)) return key;
+  }
+  return null;
+}
+
+// Cache of fetched "Next Class" content per course, refreshed periodically.
+let cache = {};
+
+async function fetchNextClass(course) {
+  try {
+    const res = await fetch(course.url, { cache: "no-store" });
+    const html = await res.text();
+    const doc = new DOMParser().parseFromString(html, "text/html");
+    const heading = doc.getElementById("next-class");
+    if (!heading) return null;
+    let dateLine = "", note = "", bullets = [];
+    let el = heading.nextElementSibling;
+    // First paragraph after the heading is "**date** — *note*"
+    if (el && el.tagName === "P") {
+      const strong = el.querySelector("strong");
+      const em = el.querySelector("em");
+      dateLine = strong ? strong.textContent : "";
+      note = em ? em.textContent : "";
+      el = el.nextElementSibling;
+    }
+    if (el && el.tagName === "UL") {
+      bullets = Array.from(el.querySelectorAll("li")).map(li => li.innerHTML);
+    }
+    return { dateLine, note, bullets };
+  } catch (e) {
+    return null;
+  }
+}
+
+async function refreshCache() {
+  for (const course of COURSES) {
+    cache[course.key] = await fetchNextClass(course);
+  }
+}
+
+function renderCourse(course) {
+  const data = cache[course.key];
+  document.getElementById("idle-list").style.display = "none";
+  document.getElementById("course-name").style.display = "";
+  document.getElementById("plan-date").style.display = "";
+  document.getElementById("plan-note").style.display = "";
+  document.getElementById("bullets").style.display = "";
+
+  document.getElementById("course-name").textContent = course.name;
+  document.getElementById("period-label").textContent = "Now Meeting";
+
+  if (!data || !data.bullets.length) {
+    document.getElementById("plan-date").textContent = "";
+    document.getElementById("plan-note").textContent = "Nothing posted yet — check back soon.";
+    document.getElementById("bullets").innerHTML = "";
+    return;
+  }
+  document.getElementById("plan-date").textContent = data.dateLine;
+  document.getElementById("plan-note").textContent = data.note;
+  document.getElementById("bullets").innerHTML = data.bullets.map(b => `<li>${b}</li>`).join("");
+}
+
+let idleIndex = 0;
+function renderIdle() {
+  document.getElementById("course-name").style.display = "none";
+  document.getElementById("plan-date").style.display = "none";
+  document.getElementById("plan-note").style.display = "none";
+  document.getElementById("bullets").style.display = "none";
+  document.getElementById("period-label").textContent = "Coming Up Today";
+
+  const course = COURSES[idleIndex % COURSES.length];
+  idleIndex++;
+  const data = cache[course.key];
+  const list = document.getElementById("idle-list");
+  list.style.display = "flex";
+  const bulletText = data && data.bullets.length
+    ? data.bullets[0]
+    : "Nothing posted yet";
+  list.innerHTML = `<div><span>${course.name}</span> — ${bulletText}</div>`;
+}
+
+function tick() {
+  const now = new Date();
+  document.getElementById("clock").textContent = now.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+  const key = currentCourseKey(now);
+  if (key) {
+    const course = COURSES.find(c => c.key === key);
+    renderCourse(course);
+  } else {
+    renderIdle();
+  }
+}
+
+refreshCache().then(tick);
+setInterval(tick, 15000);        // advance idle rotation / recheck period every 15s
+setInterval(refreshCache, 5 * 60 * 1000); // re-fetch live content every 5 min
+</script>
+</body>
+</html>

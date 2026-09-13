@@ -7,8 +7,8 @@ title: AI Literacy — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Next Class — Monday, Sept 14
-*Plan — not yet confirmed. Check back after class for what actually happened.*
+## Next Class
+**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Journal
 - Finish ethics discussion (carried over from Friday)

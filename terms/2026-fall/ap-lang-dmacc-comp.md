@@ -7,8 +7,8 @@ title: AP Lang / DMACC Comp — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Next Class — Monday, Sept 14
-*Plan — not yet confirmed. Check back after class for what actually happened.*
+## Next Class
+**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Alchemy: "Just Ten Images" (Ash Parsons) — reading + journal
 - This I Believe drafting time
