@@ -40,12 +40,14 @@ layout: null
 <div id="clock"></div>
 <div id="debug"></div>
 <div id="screen">
+<div id="content">
   <div id="course-name">Loading…</div>
   <div id="period-label"></div>
   <div id="plan-date"></div>
   <div id="plan-note"></div>
   <ul id="bullets"></ul>
   <div id="idle-list" style="display:none;"></div>
+</div>
 </div>
 
 <script>
@@ -169,6 +171,23 @@ function renderIdle() {
   list.innerHTML = `<div><span>${course.name}</span> — ${bulletText}</div>`;
 }
 
+// If the rendered content is taller than the available screen, shrink it
+// (via Chrome's non-standard `zoom` - fine here since this only ever runs
+// in Chrome) rather than letting it clip against `overflow: hidden`. Only
+// ever shrinks, never enlarges past the CSS-defined size.
+function fitToScreen() {
+  const screen = document.getElementById("screen");
+  const content = document.getElementById("content");
+  content.style.zoom = 1;
+  const style = getComputedStyle(screen);
+  const availableHeight = screen.clientHeight - parseFloat(style.paddingTop) - parseFloat(style.paddingBottom);
+  const contentHeight = content.scrollHeight;
+  if (contentHeight > availableHeight) {
+    const ratio = Math.max((availableHeight / contentHeight) * 0.95, 0.3);
+    content.style.zoom = ratio;
+  }
+}
+
 function tick() {
   const now = new Date();
   document.getElementById("clock").textContent = now.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
@@ -179,6 +198,7 @@ function tick() {
   } else {
     renderIdle();
   }
+  requestAnimationFrame(fitToScreen);
 }
 
 refreshCache().then(tick);

@@ -145,6 +145,16 @@ Load `display.html`'s URL in Chrome kiosk mode (`chrome --kiosk <url>`,
 or Chrome OS's own kiosk-app setup) so it runs full-screen with no
 browser chrome.
 
+**Text sizing** uses `clamp()` against `vmin`, tuned against a real
+device's measured viewport (a rotated portrait monitor reporting
+830×1476 CSS pixels) — see the classroom Chromebook's diagnostic
+readout (bottom-left corner of the page) if sizing ever needs
+retuning for a different screen. **If a day's content is long enough
+to overflow the screen at that size**, `fitToScreen()` shrinks the
+whole content block via Chrome's `zoom` property (safe here since this
+only ever runs in Chrome) rather than letting it clip — it only ever
+shrinks, never enlarges past the CSS-defined size.
+
 ## 7. Site settings
 
 - Pull requests and Issues are disabled (Settings → General → Features)
