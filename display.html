@@ -181,6 +181,28 @@ function tick() {
 refreshCache().then(tick);
 setInterval(tick, 15000);        // advance idle rotation / recheck period every 15s
 setInterval(refreshCache, 5 * 60 * 1000); // re-fetch live content every 5 min
+
+// Keep the screen awake while this page is open. This is a request, not a
+// guarantee - some Chrome OS device policies can override it - so also set
+// the Chromebook's own display-sleep setting to "Never" (Settings > Device
+// > Power) as a backstop.
+let wakeLock = null;
+async function requestWakeLock() {
+  try {
+    if ("wakeLock" in navigator) {
+      wakeLock = await navigator.wakeLock.request("screen");
+    }
+  } catch (e) {
+    // Wake Lock can be refused (e.g. battery saver, unsupported context) -
+    // fail silently, the page still works, it just may not stay awake.
+  }
+}
+requestWakeLock();
+// A wake lock is released automatically if the tab is hidden; re-acquire it
+// when the page becomes visible again.
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") requestWakeLock();
+});
 </script>
 </body>
 </html>
