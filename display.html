@@ -16,17 +16,21 @@ layout: null
   }
   #screen {
     display: flex; flex-direction: column; justify-content: center;
-    height: 100vh; box-sizing: border-box; padding: 4vw 6vw;
+    height: 100vh; box-sizing: border-box; padding: 4vmin 6vmin;
   }
-  #course-name { font-size: 6vw; font-weight: 700; margin: 0 0 0.5em 0; }
-  #period-label { font-size: 2vw; color: #9ad; margin: 0 0 1em 0; text-transform: uppercase; letter-spacing: 0.05em; }
-  #plan-date { font-size: 2.2vw; color: #ddd; margin: 0 0 0.6em 0; }
-  #plan-note { font-size: 1.6vw; color: #999; margin: 0 0 1em 0; font-style: italic; }
-  #bullets { font-size: 3vw; line-height: 1.5; padding-left: 1.2em; margin: 0; max-width: 88vw; overflow-wrap: break-word; }
+  /* Sized with vmin (the smaller of viewport width/height) rather than vw,
+     so this looks right whether the monitor is landscape or rotated to
+     portrait - vw alone would shrink everything on a portrait screen since
+     width becomes the short dimension there. */
+  #course-name { font-size: 6vmin; font-weight: 700; margin: 0 0 0.5em 0; }
+  #period-label { font-size: 2vmin; color: #9ad; margin: 0 0 1em 0; text-transform: uppercase; letter-spacing: 0.05em; }
+  #plan-date { font-size: 2.2vmin; color: #ddd; margin: 0 0 0.6em 0; }
+  #plan-note { font-size: 1.6vmin; color: #999; margin: 0 0 1em 0; font-style: italic; }
+  #bullets { font-size: 3vmin; line-height: 1.5; padding-left: 1.2em; margin: 0; max-width: 90%; overflow-wrap: break-word; }
   #bullets li { margin-bottom: 0.4em; }
-  #clock { position: fixed; top: 2vw; right: 3vw; font-size: 1.6vw; color: #777; }
-  #idle-list { display: flex; flex-direction: column; gap: 1.2em; max-width: 88vw; }
-  #idle-list div { font-size: 2.2vw; overflow-wrap: break-word; }
+  #clock { position: fixed; top: 2vmin; right: 3vmin; font-size: 1.6vmin; color: #777; }
+  #idle-list { display: flex; flex-direction: column; gap: 1.2em; max-width: 90%; }
+  #idle-list div { font-size: 2.2vmin; overflow-wrap: break-word; }
   #idle-list span { color: #9ad; font-weight: 700; }
 </style>
 </head>
