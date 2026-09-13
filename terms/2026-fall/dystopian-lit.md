@@ -30,6 +30,8 @@ title: Dystopian Literature — Agenda
 - Independent reading
 - Lit Terms Tuesday: Storytelling Arc
 
+---
+
 ## Week 2 (Aug 31–Sept 4)
 
 ### Friday, Sept 4
@@ -53,6 +55,8 @@ title: Dystopian Literature — Agenda
 ### Monday, Aug 31
 - Independent reading
 - Group discussion of Auden's "The Unknown Citizen"
+
+---
 
 ## Week 1 (Aug 24–28)
 

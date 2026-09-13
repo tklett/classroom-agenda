@@ -34,6 +34,8 @@ title: AP Lang / DMACC Comp — Agenda
 - Grammar: Dashes review
 - Synthesis activity: one idea each from Didion, Graham, and Iyer, plus advice for seniors writing college essays
 
+---
+
 ## Week 2 (Aug 31–Sept 4)
 
 ### Friday, Sept 4
@@ -58,6 +60,8 @@ title: AP Lang / DMACC Comp — Agenda
 ### Monday, Aug 31
 - Read Paul Graham's "Putting Ideas into Words"
 - Class discussion
+
+---
 
 ## Week 1 (Aug 24–28)
 

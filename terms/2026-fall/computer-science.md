@@ -31,6 +31,8 @@ title: Computer Science — Agenda
 ### Tuesday, Sept 8
 - CertMaster Learn access confirmed — logged in and started Module 1
 
+---
+
 ## Week 2 (Aug 31–Sept 4)
 
 ### Friday, Sept 4
@@ -48,6 +50,8 @@ title: Computer Science — Agenda
 
 ### Monday, Aug 31
 - code.org AP CSP: Lesson 6
+
+---
 
 ## Week 1 (Aug 24–28)
 

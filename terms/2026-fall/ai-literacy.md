@@ -26,6 +26,8 @@ title: AI Literacy — Agenda
 - AIedu journal: "At Your Service" (the robot-hotel scenario)
 - Started your Recommendation Context File (Google Doc) — a file describing yourself to help an AI make personalized recommendations
 
+---
+
 ## Week 2 (Aug 31–Sept 4)
 
 ### Friday, Sept 4
@@ -49,6 +51,8 @@ title: AI Literacy — Agenda
 
 ### Monday, Aug 31
 - Second AI Blind Draw attempt (AI describes a hidden image step-by-step, sight unseen)
+
+---
 
 ## Week 1 (Aug 24–28)
 

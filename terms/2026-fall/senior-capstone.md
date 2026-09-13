@@ -29,6 +29,8 @@ title: Senior Capstone — Agenda
   > Think of a time you were called toward something new, difficult, or uncertain — a challenge you almost didn't take, a change you didn't ask for, a risk you decided to take anyway. What was your "call to adventure," and how did you actually respond — not how you wish you'd responded?
 - Game of Quotes (find a line in your independent reading book matching a prompt card)
 
+---
+
 ## Week 2 (Aug 31–Sept 4)
 
 ### Friday, Sept 4
@@ -59,6 +61,8 @@ title: Senior Capstone — Agenda
 - Independent reading
 - Vocabulary notes (Week 2 words)
 - Read the Aunt Belle passage
+
+---
 
 ## Week 1 (Aug 24–28)
 
