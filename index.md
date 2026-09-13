@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Classroom Agenda
 ---
 
-# Classroom Agenda — Fall 2026
+# Fall 2026 Classroom Agenda
 
 Pick your class to see what we've done and check for anything you missed.
 
