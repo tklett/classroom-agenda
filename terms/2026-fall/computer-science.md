@@ -8,9 +8,9 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan — not yet confirmed. Check back after class for what actually happened.*
+**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Nothing posted yet — check back soon.
+- CertMaster work time
 
 ---
 

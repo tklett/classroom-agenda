@@ -11,8 +11,8 @@ title: Dystopian Literature — Agenda
 **Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Independent reading
-- Article of the Week, Week 4: "In a Word: Getting Nowhere with Utopia" (Andy Hollandbeck)
-- Comprehension check (a few quick questions, if time allows)
+- Article of the Week, Week 4: "Someone Might Be Watching — An Introduction to Dystopian Fiction" (Shelby Ostergaard)
+- Comprehension check — delayed to Tuesday if Mr. Klett is out
 
 ---
 
