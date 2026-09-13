@@ -7,6 +7,13 @@ title: Dystopian Literature — Agenda
 
 [← Back to all classes](../../index.html)
 
+## Next Class
+*Plan — not yet confirmed. Check back after class for what actually happened.*
+
+- Nothing posted yet — check back soon.
+
+---
+
 <details markdown="1" open>
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
