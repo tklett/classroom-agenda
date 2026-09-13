@@ -7,7 +7,8 @@ title: AP Lang / DMACC Comp — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Week 3 (Sept 8–11)
+<details markdown="1" open>
+<summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
 - Grammar quiz (Internal Punctuation Quiz #1)
@@ -34,9 +35,10 @@ title: AP Lang / DMACC Comp — Agenda
 - Grammar: Dashes review
 - Synthesis activity: one idea each from Didion, Graham, and Iyer, plus advice for seniors writing college essays
 
----
+</details>
 
-## Week 2 (Aug 31–Sept 4)
+<details markdown="1">
+<summary><strong>Week 2 (Aug 31–Sept 4)</strong></summary>
 
 ### Friday, Sept 4
 - Finished reading Didion's "On Keeping a Notebook"
@@ -61,9 +63,10 @@ title: AP Lang / DMACC Comp — Agenda
 - Read Paul Graham's "Putting Ideas into Words"
 - Class discussion
 
----
+</details>
 
-## Week 1 (Aug 24–28)
+<details markdown="1">
+<summary><strong>Week 1 (Aug 24–28)</strong></summary>
 
 ### Friday, Aug 28
 - Grammar diagnostic (baseline check, not graded on accuracy)
@@ -84,3 +87,5 @@ title: AP Lang / DMACC Comp — Agenda
 ### Monday, Aug 24
 - Jenga get-to-know-you questions
 - Note card: name, a Jenga answer, a possible story idea, a course skill to work on
+
+</details>

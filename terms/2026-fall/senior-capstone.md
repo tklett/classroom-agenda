@@ -7,7 +7,8 @@ title: Senior Capstone — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Week 3 (Sept 8–11)
+<details markdown="1" open>
+<summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
 - Independent reading
@@ -29,9 +30,10 @@ title: Senior Capstone — Agenda
   > Think of a time you were called toward something new, difficult, or uncertain — a challenge you almost didn't take, a change you didn't ask for, a risk you decided to take anyway. What was your "call to adventure," and how did you actually respond — not how you wish you'd responded?
 - Game of Quotes (find a line in your independent reading book matching a prompt card)
 
----
+</details>
 
-## Week 2 (Aug 31–Sept 4)
+<details markdown="1">
+<summary><strong>Week 2 (Aug 31–Sept 4)</strong></summary>
 
 ### Friday, Sept 4
 - Independent reading
@@ -62,9 +64,10 @@ title: Senior Capstone — Agenda
 - Vocabulary notes (Week 2 words)
 - Read the Aunt Belle passage
 
----
+</details>
 
-## Week 1 (Aug 24–28)
+<details markdown="1">
+<summary><strong>Week 1 (Aug 24–28)</strong></summary>
 
 ### Friday, Aug 28
 - Independent reading
@@ -86,3 +89,5 @@ title: Senior Capstone — Agenda
 ### Monday, Aug 24
 - Six-word memoirs
 - Note card: post-high-school plan, a writing skill to work on, a joke, a Shakespeare interest
+
+</details>

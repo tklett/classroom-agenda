@@ -7,7 +7,8 @@ title: Computer Science — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Week 3 (Sept 8–11)
+<details markdown="1" open>
+<summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
 - Opener: CompTIA's Job Data Exploration tool — "Which job stands out to you?"
@@ -31,9 +32,10 @@ title: Computer Science — Agenda
 ### Tuesday, Sept 8
 - CertMaster Learn access confirmed — logged in and started Module 1
 
----
+</details>
 
-## Week 2 (Aug 31–Sept 4)
+<details markdown="1">
+<summary><strong>Week 2 (Aug 31–Sept 4)</strong></summary>
 
 ### Friday, Sept 4
 - Completed two code.org AP CSP lessons (Lessons 10 and 11)
@@ -51,9 +53,10 @@ title: Computer Science — Agenda
 ### Monday, Aug 31
 - code.org AP CSP: Lesson 6
 
----
+</details>
 
-## Week 1 (Aug 24–28)
+<details markdown="1">
+<summary><strong>Week 1 (Aug 24–28)</strong></summary>
 
 ### Friday, Aug 28
 - code.org AP CSP: Lesson 5 — overflow/rounding
@@ -71,3 +74,5 @@ title: Computer Science — Agenda
 ### Monday, Aug 24
 - Class logistics
 - 10-question practice quiz over Tech+ certification exam content
+
+</details>

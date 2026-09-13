@@ -7,7 +7,8 @@ title: Dystopian Literature — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Week 3 (Sept 8–11)
+<details markdown="1" open>
+<summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
 - Journal:
@@ -30,9 +31,10 @@ title: Dystopian Literature — Agenda
 - Independent reading
 - Lit Terms Tuesday: Storytelling Arc
 
----
+</details>
 
-## Week 2 (Aug 31–Sept 4)
+<details markdown="1">
+<summary><strong>Week 2 (Aug 31–Sept 4)</strong></summary>
 
 ### Friday, Sept 4
 - Journal:
@@ -56,9 +58,10 @@ title: Dystopian Literature — Agenda
 - Independent reading
 - Group discussion of Auden's "The Unknown Citizen"
 
----
+</details>
 
-## Week 1 (Aug 24–28)
+<details markdown="1">
+<summary><strong>Week 1 (Aug 24–28)</strong></summary>
 
 ### Friday, Aug 28
 - Independent reading
@@ -79,3 +82,5 @@ title: Dystopian Literature — Agenda
 - Syllabus review
 - "Citizen Compliance Assessment" survey
 - Read a Foucault excerpt on the panopticon
+
+</details>

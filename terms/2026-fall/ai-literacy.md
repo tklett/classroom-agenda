@@ -7,7 +7,8 @@ title: AI Literacy — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Week 3 (Sept 8–11)
+<details markdown="1" open>
+<summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
 - Two-tool testing: tested your recommendation file against an unfamiliar AI tool and your preferred tool, on three questions of increasing difficulty
@@ -26,9 +27,10 @@ title: AI Literacy — Agenda
 - AIedu journal: "At Your Service" (the robot-hotel scenario)
 - Started your Recommendation Context File (Google Doc) — a file describing yourself to help an AI make personalized recommendations
 
----
+</details>
 
-## Week 2 (Aug 31–Sept 4)
+<details markdown="1">
+<summary><strong>Week 2 (Aug 31–Sept 4)</strong></summary>
 
 ### Friday, Sept 4
 - AI Use Checklist
@@ -52,9 +54,10 @@ title: AI Literacy — Agenda
 ### Monday, Aug 31
 - Second AI Blind Draw attempt (AI describes a hidden image step-by-step, sight unseen)
 
----
+</details>
 
-## Week 1 (Aug 24–28)
+<details markdown="1">
+<summary><strong>Week 1 (Aug 24–28)</strong></summary>
 
 ### Friday, Aug 28
 - "Audience Changes Everything": Blind Draw activity — one partner gives instructions, the other tries to reproduce a drawing without seeing the original
@@ -76,6 +79,4 @@ title: AI Literacy — Agenda
 ### Monday, Aug 24
 - LEGO Instruction Challenge: built something, wrote directions, then swapped and revised a partner's directions
 
----
-
-**Note:** the exact day boundary for the Aug 31–Sept 1 stretch is a little fuzzy in the source notes — if something looks off for those two days specifically, ask Mr. Klett rather than assuming this page has it exactly right.
+</details>
