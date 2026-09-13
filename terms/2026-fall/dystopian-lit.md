@@ -7,10 +7,12 @@ title: Dystopian Literature — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Next Class
+## Next Class — Monday, Sept 14
 *Plan — not yet confirmed. Check back after class for what actually happened.*
 
-- Nothing posted yet — check back soon.
+- Independent reading
+- Article of the Week, Week 4: "In a Word: Getting Nowhere with Utopia" (Andy Hollandbeck)
+- Comprehension check (a few quick questions, if time allows)
 
 ---
 

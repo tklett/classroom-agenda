@@ -7,10 +7,12 @@ title: Senior Capstone — Agenda
 
 [← Back to all classes](../../index.html)
 
-## Next Class
+## Next Class — Monday, Sept 14
 *Plan — not yet confirmed. Check back after class for what actually happened.*
 
-- Nothing posted yet — check back soon.
+- Independent reading
+- Lesson 12: selecting your topic, centering the piece, scene-attribute analysis (Kings Island excerpts), then draft in the Google Doc
+- Vocabulary Week 3: petulant, prodigal, hedonist
 
 ---
 
