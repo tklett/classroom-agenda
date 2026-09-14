@@ -12,7 +12,7 @@ title: AP Lang / DMACC Comp — Agenda
 
 - Alchemy: "Just Ten Images" (Ash Parsons) — reading + journal
 - This I Believe drafting time
-- Peer review: "PAT the SPACECAT" (Purpose, Audience, Tone) — 10-minute partner swap
+- "PAT the SPACECAT" self-check (Purpose, Audience, Tone) — added as a new tab in your own drafting doc today instead of a partner swap
 
 ---
 
