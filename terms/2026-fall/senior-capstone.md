@@ -8,16 +8,20 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Independent reading
-- Finish Part 1 of drafting (practice draft)
-- Start Part 2: Alternating Between Action and Reflection ("Crying in H Mart" models)
+- Continue drafting (practice draft)
+- Grammar: Subordination for Emphasis, folded into the draft work itself
+- Independent reading likely skipped today
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Tuesday, Sept 15
+- Independent reading
+- Started drafting (practice draft) — continues Wednesday
 
 ### Monday, Sept 14
 - Independent reading

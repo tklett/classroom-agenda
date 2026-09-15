@@ -8,16 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Continue essay drafting
-- Self-review checklist
-- Peer-review checklist
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Tuesday, Sept 15
+- Essay drafting
 
 ### Monday, Sept 14
 - Journal

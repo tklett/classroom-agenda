@@ -8,16 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar Notes: Dashes & Active Voice
-- Continue This I Believe drafting + self-review
 - Peer review ("PAT the SPACECAT")
+- Extension task for early finishers: reading/analysis on James Marriott's "The Dawn of the Post-Literate Society"
+- Precision Wednesdays: Abstract vs. Concrete
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Tuesday, Sept 15
+- Grammar Notes: Dashes & Active Voice
+- Continued This I Believe drafting, with one-on-one conferences for students who'd finished their draft and self-check
+- Everyone did the "PAT the SPACECAT" self-check by end of class, regardless of draft status — peer review moved to Wednesday
 
 ### Monday, Sept 14
 - Alchemy: "Just Ten Images" (Ash Parsons) — reading + journal

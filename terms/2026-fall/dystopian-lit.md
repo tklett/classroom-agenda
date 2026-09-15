@@ -8,16 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Independent reading
-- Lit Terms Tuesday, Term #3: Protagonist / Antagonist / Antihero / Foil
-- CommonLit questions (comprehension check on Monday's article)
+- Grammar Wednesdays: comma rules (building on Predicates & Modifiers)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Tuesday, Sept 15
+- Independent reading
+- CommonLit questions (comprehension check on Monday's article)
+- Lit Terms Tuesday, Term #3: Protagonist / Antagonist / Antihero / Foil
 
 ### Monday, Sept 14
 - Independent reading

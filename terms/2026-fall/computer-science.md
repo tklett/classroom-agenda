@@ -8,16 +8,19 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Modules 1 and 2
-- Opener: "What is the Internet?" (Code.org slides)
-- CertMaster work time
+- Opener: "The Internet" in-class simulation (Code.org AP CSP's "Human Internet" activity)
+- CertMaster work time (Module 2)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Tuesday, Sept 15
+- Opener: "What is the Internet?" (Code.org slides)
+- CertMaster work time — most students now in Module 2
 
 ### Monday, Sept 14
 - CertMaster work time
