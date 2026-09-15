@@ -8,15 +8,25 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Alchemy: "Just Ten Images" (Ash Parsons) — reading + journal
-- This I Believe drafting time
-- "PAT the SPACECAT" self-check (Purpose, Audience, Tone) — added as a new tab in your own drafting doc today instead of a partner swap
+- Grammar Notes: Dashes & Active Voice
+- Continue This I Believe drafting + self-review
+- Peer review ("PAT the SPACECAT")
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Monday, Sept 14
+- Alchemy: "Just Ten Images" (Ash Parsons) — reading + journal
+- This I Believe drafting time
+- "PAT the SPACECAT" self-check (Purpose, Audience, Tone) — added as a new tab in your own drafting doc today instead of a partner swap
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11

@@ -8,15 +8,25 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Independent reading
-- Article of the Week, Week 4: "Someone Might Be Watching — An Introduction to Dystopian Fiction" (Shelby Ostergaard)
-- Comprehension check — delayed to Tuesday if Mr. Klett is out
+- Lit Terms Tuesday, Term #3: Protagonist / Antagonist / Antihero / Foil
+- CommonLit questions (comprehension check on Monday's article)
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Monday, Sept 14
+- Independent reading
+- Article of the Week, Week 4: "Someone Might Be Watching — An Introduction to Dystopian Fiction" (Shelby Ostergaard)
+- Comprehension check didn't get answered before class ended — moved to Tuesday's CommonLit questions instead
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11

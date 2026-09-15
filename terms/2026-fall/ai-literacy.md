@@ -8,15 +8,25 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal
-- Finish ethics discussion (carried over from Friday)
-- Essay scaffolding: claim → evidence bank → reasoning → complication → ethics tie-in → draft
+- Continue essay drafting
+- Self-review checklist
+- Peer-review checklist
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Monday, Sept 14
+- Journal
+- Finished ethics discussion (carried over from Friday)
+- Essay scaffolding: claim → evidence bank → reasoning → complication → ethics tie-in → draft
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11

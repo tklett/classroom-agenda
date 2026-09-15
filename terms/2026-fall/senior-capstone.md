@@ -8,15 +8,25 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Independent reading
-- Selecting Memoir Topic and Creating Scenes: selecting your topic, centering the piece, scene-attribute analysis (Kings Island excerpts), then draft in the Google Doc
-- Vocabulary Week 3: petulant, prodigal, hedonist
+- Finish Part 1 of drafting (practice draft)
+- Start Part 2: Alternating Between Action and Reflection ("Crying in H Mart" models)
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Monday, Sept 14
+- Independent reading
+- Selecting Memoir Topic and Creating Scenes: selecting your topic, centering the piece, scene-attribute analysis (Kings Island excerpts), then draft in the Google Doc
+- Vocabulary Week 3: petulant, prodigal, hedonist
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11

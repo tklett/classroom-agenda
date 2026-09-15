@@ -8,13 +8,23 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Modules 1 and 2
+- Opener: "What is the Internet?" (Code.org slides)
 - CertMaster work time
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Monday, Sept 14
+- CertMaster work time
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 3 (Sept 8–11)</strong></summary>
 
 ### Friday, Sept 11
