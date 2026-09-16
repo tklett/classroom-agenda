@@ -8,9 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16**
 
 - Continue essay drafting
+- Grammar journal: gather 3 unedited writing samples, query an AI chatbot for a grammar checklist, verify each claimed issue against your original writing, then apply a fix
 
 ---
 

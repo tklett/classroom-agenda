@@ -8,11 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16**
 
-- Continue drafting (practice draft)
-- Grammar: Subordination for Emphasis, folded into the draft work itself
-- Independent reading likely skipped today
+- Grammar: Journal Hunt — revise your notebook draft to include at least two sentences with subordination
+- Continue drafting (practice draft) in notebooks
+- Independent reading for anyone who finishes early
 
 ---
 

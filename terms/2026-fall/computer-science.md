@@ -8,10 +8,9 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16**
 
-- Opener: "The Internet" in-class simulation (Code.org AP CSP's "Human Internet" activity)
-- CertMaster work time (Module 2)
+- CertMaster work time (Module 2) — the "Human Internet" opener got cut for time today, carries forward to whenever it next fits
 
 ---
 

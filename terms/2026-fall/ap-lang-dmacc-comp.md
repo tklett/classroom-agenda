@@ -8,11 +8,11 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16**
 
-- Peer review ("PAT the SPACECAT")
-- Extension task for early finishers: reading/analysis on James Marriott's "The Dawn of the Post-Literate Society"
-- Precision Wednesdays: Abstract vs. Concrete
+- Peer review: partner reads your draft, reviews your PAT self-reflection, and agrees/disagrees with your self-assessment (in person or with anyone else you ask, from either section)
+- Extension task for early finishers: reading/analysis on James Marriott's "The Dawn of the Post-Literate Society" — due Monday, Sept 21
+- Precision Wednesdays: Abstract vs. Concrete notes
 
 ---
 
