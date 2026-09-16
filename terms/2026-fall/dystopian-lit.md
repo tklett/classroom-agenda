@@ -8,7 +8,7 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 16**
 
 - Written response (100 words, 20 min): connect Ostergaard's "funhouse mirror" framing of dystopian fears to your own independent-reading book, using one sentence with a dependent/independent clause
 - Independent reading once finished

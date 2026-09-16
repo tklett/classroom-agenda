@@ -10,9 +10,9 @@ title: Senior Capstone — Agenda
 ## Next Class
 **Wednesday, Sept 16**
 
-- Grammar: Journal Hunt — revise your notebook draft to include at least two sentences with subordination
-- Continue drafting (practice draft) in notebooks
-- Independent reading for anyone who finishes early
+- Draft a paragraph in your notebook (practice draft)
+- Grammar: Journal Hunt — review that paragraph and revise it to include at least two sentences with subordination
+- Read your independent-reading novel
 
 ---
 
