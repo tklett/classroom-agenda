@@ -8,15 +8,21 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Fill out the AI Use Checklist and Failure Log, covering the whole unit (both the Troubleshooting Manual and the recommendation-file testing)
-- Run the essay AI review prompt on your own draft before submitting
+- Final Unit 1 submission Google Form goes out
+- Finish wrap-up work / final revisions
+- If you finish early: pick one extension activity from a prior AI-Edu journal
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Thursday, Sept 17
+- Filled out the AI Use Checklist and Failure Log, covering the whole unit (both the Troubleshooting Manual and the recommendation-file testing)
+- Ran the essay AI review prompt on your own draft
+- Made final revisions
 
 ### Wednesday, Sept 16
 - Continue essay drafting

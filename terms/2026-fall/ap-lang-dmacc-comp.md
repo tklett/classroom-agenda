@@ -8,17 +8,22 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar: Semicolons Quick Reteach + Active Voice 2.1
-- APA formatting (self-directed): make a new doc tab and format it yourselves using the [Purdue OWL APA Sample Paper](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html) page — no instructions beyond "APA format." Not graded on accuracy today.
-- Print your formatted draft, peer review with a partner
-- Remaining time: Marriott extension task
+- Fallacy Fridays: Genetic Fallacy, plus one more fallacy (TBD)
+- Finish This I Believe — turn in electronically, plus the peer-review form and a printed copy
+- Marriott extension task continues
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Thursday, Sept 17
+- Grammar: Semicolons Quick Reteach + Active Voice 2.1
+- APA formatting (self-directed): made a new doc tab and formatted it using the [Purdue OWL APA Sample Paper](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html) page — no instructions beyond "APA format." Not graded on accuracy.
+- Printed the formatted draft, peer review with a partner
+- Remaining time: Marriott extension task
 
 ### Wednesday, Sept 16
 - Peer review: partner reads your draft, reviews your PAT self-reflection, and agrees/disagrees with your self-assessment (in person or with anyone else you ask, from either section)

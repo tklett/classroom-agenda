@@ -8,16 +8,20 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Gimkit review for tomorrow's quiz
+- Code.org Unit 1 quiz
 - CertMaster work time (Module 2)
-- More Gimkit review to close out class
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Thursday, Sept 17
+- Gimkit review for the quiz
+- CertMaster work time (Module 2)
+- More Gimkit review to close out class
 
 ### Wednesday, Sept 16
 - CertMaster work time (Module 2) — the "Human Internet" opener got cut for time today, carries forward to whenever it next fits

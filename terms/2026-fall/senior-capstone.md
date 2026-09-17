@@ -8,16 +8,21 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Lesson 14: go through the Model A/B "Crying in H Mart" examples as a class
-- Type your notebook draft into the Google Doc — bold the subordination sentence(s) you added Wednesday
-- Independent reading if time allows
+- Independent reading first thing
+- Peer review of your typed draft
+- Vocabulary review activity (Week 3 words)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Thursday, Sept 17
+- Lesson 14: went through the Model A/B "Crying in H Mart" examples as a class
+- Typed notebook draft into the Google Doc — bolded the subordination sentence(s) added Wednesday
+- Independent reading
 
 ### Wednesday, Sept 16
 - Draft a paragraph in your notebook (practice draft)

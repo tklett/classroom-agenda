@@ -8,16 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Theory Toolbox Ch. 3 reading ("Reading" — Nealon & Giroux)
-- Independent reading
-- Last ~20 minutes: group poster activity on Metaphor vs. Metonymy
+- Reading
+- Possibly: the group poster activity on Metaphor vs. Metonymy (moved from Thursday)
+- Journal (prompt not yet set)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Thursday, Sept 17
+- Theory Toolbox Ch. 3 reading ("Reading" — Nealon & Giroux)
+- Independent reading
+- The reading ran long, so the planned group poster got swapped for an individual version: "The Test" (concrete-for-concrete = metonymy; abstract-for-concrete = metaphor), then found 5 metaphor and 5 metonymy examples in your notebook, labeling concrete vs. abstract
 
 ### Wednesday, Sept 16
 - Written response (100 words, 20 min): connect Ostergaard's "funhouse mirror" framing of dystopian fears to your own independent-reading book, using one sentence with a dependent/independent clause
