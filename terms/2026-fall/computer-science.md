@@ -10,8 +10,9 @@ title: Computer Science — Agenda
 ## Next Class
 **Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Review for tomorrow's quiz
+- Gimkit review for tomorrow's quiz
 - CertMaster work time (Module 2)
+- More Gimkit review to close out class
 
 ---
 

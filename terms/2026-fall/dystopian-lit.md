@@ -10,9 +10,9 @@ title: Dystopian Literature — Agenda
 ## Next Class
 **Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Theory Toolbox Ch. 3 reading ("Symbol and Control")
+- Theory Toolbox Ch. 3 reading ("Reading" — Nealon & Giroux)
 - Independent reading
-- Last ~20 minutes: group poster activity on metonymy and synecdoche
+- Last ~20 minutes: group poster activity on Metaphor vs. Metonymy
 
 ---
 
