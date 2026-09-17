@@ -10,7 +10,7 @@ title: Computer Science — Agenda
 ## Next Class
 **Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Human Internet network activity (Code.org), carried forward from Wednesday
+- Review for tomorrow's quiz
 - CertMaster work time (Module 2)
 
 ---
