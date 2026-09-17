@@ -10,7 +10,7 @@ title: AP Lang / DMACC Comp — Agenda
 ## Next Class
 **Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Fallacy Fridays: Genetic Fallacy, plus one more fallacy (TBD)
+- Fallacy Fridays: Genetic Fallacy and Appeal to Authority
 - Finish This I Believe — turn in electronically, plus the peer-review form and a printed copy
 - Marriott extension task continues
 
