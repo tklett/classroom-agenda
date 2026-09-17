@@ -8,15 +8,19 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16**
+**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Continue essay drafting
-- Grammar journal: gather 3 unedited writing samples, query an AI chatbot for a grammar checklist, verify each claimed issue against your original writing, then apply a fix
+- Fill out the AI Use Checklist and Failure Log, covering the whole unit (both the Troubleshooting Manual and the recommendation-file testing)
+- Run the essay AI review prompt on your own draft before submitting
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Wednesday, Sept 16
+- Continue essay drafting
+- Grammar journal: gather 3 unedited writing samples, query an AI chatbot for a grammar checklist, verify each claimed issue against your original writing, then apply a fix
 
 ### Tuesday, Sept 15
 - Essay drafting

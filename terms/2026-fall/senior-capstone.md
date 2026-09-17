@@ -8,16 +8,21 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16**
+**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Draft a paragraph in your notebook (practice draft)
-- Grammar: Journal Hunt — review that paragraph and revise it to include at least two sentences with subordination
-- Read your independent-reading novel
+- Lesson 14: go through the Model A/B "Crying in H Mart" examples as a class
+- Type your notebook draft into the Google Doc — bold the subordination sentence(s) you added Wednesday
+- Independent reading if time allows
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Wednesday, Sept 16
+- Draft a paragraph in your notebook (practice draft)
+- Grammar: Journal Hunt — review that paragraph and revise it to include at least two sentences with subordination
+- Read your independent-reading novel
 
 ### Tuesday, Sept 15
 - Independent reading

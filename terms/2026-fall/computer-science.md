@@ -8,14 +8,18 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16**
+**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- CertMaster work time (Module 2) — the "Human Internet" opener got cut for time today, carries forward to whenever it next fits
+- Human Internet network activity (Code.org), carried forward from Wednesday
+- CertMaster work time (Module 2)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Wednesday, Sept 16
+- CertMaster work time (Module 2) — the "Human Internet" opener got cut for time today, carries forward to whenever it next fits
 
 ### Tuesday, Sept 15
 - Opener: "What is the Internet?" (Code.org slides)

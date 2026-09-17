@@ -8,16 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 16**
+**Thursday, Sept 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Written response (100 words, 20 min): connect Ostergaard's "funhouse mirror" framing of dystopian fears to your own independent-reading book, using one sentence with a dependent/independent clause
-- Independent reading once finished
-- Partner swap for proofing at the end of class
+- Theory Toolbox Ch. 3 reading ("Symbol and Control")
+- Independent reading
+- Last ~20 minutes: group poster activity on metonymy and synecdoche
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Wednesday, Sept 16
+- Written response (100 words, 20 min): connect Ostergaard's "funhouse mirror" framing of dystopian fears to your own independent-reading book, using one sentence with a dependent/independent clause
+- Independent reading once finished
+- Partner swap for proofing at the end of class
 
 ### Tuesday, Sept 15
 - Independent reading
