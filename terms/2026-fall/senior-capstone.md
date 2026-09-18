@@ -8,16 +8,17 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Independent reading
-- Draft Review: highlight descriptive/vivid language, underline moments of reflection, then answer (and sign) how effective the movement between action and reflection is
-- Vocabulary Week 3 Gimkit
+**Monday, Sept 21** — *Plan not yet posted.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Friday, Sept 18
+- Independent reading
+- Draft Review: highlighted descriptive/vivid language, underlined moments of reflection, then answered (and signed) how effective the movement between action and reflection was — with ideas for how to add reflection if it was missing
+- Vocabulary Week 3 Gimkit
 
 ### Thursday, Sept 17
 - Lesson 14: went through the Model A/B "Crying in H Mart" examples as a class

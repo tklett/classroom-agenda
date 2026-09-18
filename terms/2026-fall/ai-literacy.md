@@ -8,16 +8,18 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Final Unit 1 submission Google Form goes out
-- Finish wrap-up work / final revisions
-- If you finish early: pick one extension activity (AI Poster, At Your Service, or Feedback Face-Off)
+**Monday, Sept 21** — *Unit 2 begins. Plan not yet posted.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Friday, Sept 18
+- Final Unit 1 submission Google Form
+- Finished wrap-up work / final revisions
+- Early finishers picked an extension activity (AI Poster, At Your Service, or Feedback Face-Off)
+- **Unit 1 wrapped**
 
 ### Thursday, Sept 17
 - Filled out the AI Use Checklist and Failure Log, covering the whole unit (both the Troubleshooting Manual and the recommendation-file testing)

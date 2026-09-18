@@ -8,17 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Fallacy Review practice set (Google Classroom warmup)
-- Fallacy Fridays: Genetic Fallacy and Appeal to Authority
-- Finish This I Believe — turn in electronically, plus the peer-review form and a printed copy
-- Remaining time: Marriott reading (writing task due Monday, Sept 21)
+- Marriott writing task due
+- Possible early-finisher activity: an Alchemy journal (find an essay you think the class should read, journal on why)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Friday, Sept 18
+- Fallacy Review practice set (Google Classroom warmup)
+- Fallacy Fridays: Genetic Fallacy and Appeal to Authority
+- Finished This I Believe — turned in electronically, plus the peer-review form and a printed copy
+- Remaining time: Marriott reading (writing task due Monday, Sept 21)
 
 ### Thursday, Sept 17
 - Grammar: Semicolons Quick Reteach + Active Voice 2.1
