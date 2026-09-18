@@ -8,15 +8,16 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Code.org Unit 1 quiz
-- CertMaster work time (Module 2)
+**Monday, Sept 21** — *Plan not yet posted. Check back for what's next.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Friday, Sept 18
+- Unit 1 quiz
+- CertMaster work time (Module 2)
 
 ### Thursday, Sept 17
 - Gimkit review for the quiz

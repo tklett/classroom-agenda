@@ -8,16 +8,18 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Reading
-- Possibly: the group poster activity on Metaphor vs. Metonymy (moved from Thursday)
-- Journal (prompt not yet set)
+**Monday, Sept 21** — *Plan not yet posted. Check back for what's next.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
+
+### Friday, Sept 18
+- Independent reading
+- Poster activity (the deferred Metaphor vs. Metonymy task from Thursday): in groups, picked one metaphor and one metonymy, labeled the concrete/abstract element in each and explained why, then posted for a whole-class gallery review
+- Journal:
+  > Find one metonymy in your novel — a concrete detail standing for something else concrete, just by association. Find one metaphor in your novel — a concrete detail standing for something abstract, because it resembles it. Which was harder to find, and why might that be true of your specific book?
 
 ### Thursday, Sept 17
 - Theory Toolbox Ch. 3 reading ("Reading" — Nealon & Giroux)
