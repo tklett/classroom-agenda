@@ -139,6 +139,16 @@ The bell schedule (two variants — Wed runs shorter periods) is hardcoded
 in `display.html`'s `SCHEDULE` object. **If the bell schedule changes,
 update it there** — it has no other source of truth.
 
+**One-off adjusted schedules** (assembly, testing, early dismissal, etc.)
+use a separate `SCHEDULE_OVERRIDE` object right below `SCHEDULE` — a
+single date plus that day's actual periods, checked first and falling
+back to the normal `SCHEDULE` when the date doesn't match today. This
+doesn't touch the permanent schedule. Update `SCHEDULE_OVERRIDE` (or
+just let it go stale — it's a no-op on any other date) each time Tom
+gives an adjusted day's times; he prefers this day-by-day rather than
+getting the whole week's adjustments up front, since disruptions
+(weather, etc.) can change things before a later day arrives.
+
 Content re-fetches every 5 minutes, so editing a "Next Class" box
 reaches the display within that window without touching the Chromebook.
 Load `display.html`'s URL in Chrome kiosk mode (`chrome --kiosk <url>`,

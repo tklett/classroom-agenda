@@ -85,9 +85,38 @@ const SCHEDULE = {
   ],
 };
 
+// One-off adjusted-schedule override: set for a single specific date when
+// the school runs a non-standard bell schedule that day (assembly, testing,
+// early dismissal, etc.). This does NOT change SCHEDULE above — that stays
+// the normal recurring pattern. Update `date` and `periods` each time a new
+// adjusted day comes up (day-by-day, per Tom's preference, since weather or
+// other disruptions can change things before a day even arrives); a
+// non-matching date is simply ignored, so it's safe to leave the last one
+// in place until the next adjustment is known.
+const SCHEDULE_OVERRIDE = {
+  date: "2026-09-21",
+  periods: [
+    ["ap-lang-dmacc-comp", "9:51", "10:36"],
+    ["ap-lang-dmacc-comp", "10:39", "11:24"],
+    ["senior-capstone",    "11:51", "12:36"],
+    ["ai-literacy",        "13:09", "13:54"],
+    ["dystopian-lit",      "13:57", "14:42"],
+    ["computer-science",   "14:45", "15:30"],
+  ],
+};
+
+function todayISO(now) {
+  return now.getFullYear() + "-" + String(now.getMonth() + 1).padStart(2, "0") + "-" + String(now.getDate()).padStart(2, "0");
+}
+
 function currentCourseKey(now) {
-  const day = now.getDay(); // 0=Sun ... 3=Wed
-  const todaySchedule = day === 3 ? SCHEDULE.wed : SCHEDULE.mtthf;
+  let todaySchedule;
+  if (SCHEDULE_OVERRIDE.date === todayISO(now)) {
+    todaySchedule = SCHEDULE_OVERRIDE.periods;
+  } else {
+    const day = now.getDay(); // 0=Sun ... 3=Wed
+    todaySchedule = day === 3 ? SCHEDULE.wed : SCHEDULE.mtthf;
+  }
   const nowMin = now.getHours() * 60 + now.getMinutes();
   for (const [key, start, end] of todaySchedule) {
     if (nowMin >= toMin(start) && nowMin < toMin(end)) return key;
