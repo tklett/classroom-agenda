@@ -10,8 +10,8 @@ title: AP Lang / DMACC Comp — Agenda
 ## Next Class
 **Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Marriott writing task due
-- Possible early-finisher activity: an Alchemy journal (find an essay you think the class should read, journal on why)
+- In-class writing: testing your This I Believe claim against Marriott's essay
+- Book of Alchemy journal: pick an essay, journal on why (or why not) the class should read it
 
 ---
 

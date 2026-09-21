@@ -8,7 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Unit 2 begins. Plan not yet posted.*
+**Monday, Sept 21** — *Unit 2 begins. Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- AIedu journal
+- Hallucination Hunt + microGPT Lab: warm up by generating plausible-sounding "facts" about the Great Wall of China, then train your own tiny GPT and watch it learn (and hallucinate) in real time
 
 ---
 

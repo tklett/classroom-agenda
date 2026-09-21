@@ -10,8 +10,10 @@ title: Computer Science — Agenda
 ## Next Class
 **Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- The Human Internet network activity (bellringer)
+- Journal opener: five new vocab words, then Give One, Get One
+- Building a Network: a human-network string activity, building a working network under increasingly tricky constraints
 - CertMaster work time
+- Exit ticket
 
 ---
 

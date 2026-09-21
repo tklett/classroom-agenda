@@ -8,7 +8,11 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan not yet posted, but Article of the Week (Week 5) is on deck.*
+**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Article of the Week, Week 5: "The Third Wave"
+- Finish the CommonLit assessment questions for that reading
+- Independent reading
 
 ---
 

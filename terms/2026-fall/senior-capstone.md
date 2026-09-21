@@ -8,7 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan not yet posted.*
+**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Independent reading
+- New vocabulary
+- Start Reading Lesson 4: Brittany Stinson's "Model Application Essay 1"
 
 ---
 
