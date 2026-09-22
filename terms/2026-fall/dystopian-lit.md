@@ -8,15 +8,28 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Article of the Week, Week 5: "The Third Wave"
-- Finish the CommonLit assessment questions for that reading
 - Independent reading
+- Lit Terms Tuesday, Term #4: Point of View / Narration
+- Exit journal:
+  > What type of narrator does your novel have? How do you know? Point to a specific line or moment that proves it. Why do you think the author chose that?
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Monday, Sept 21
+- Article of the Week, Week 5: "The Third Wave"
+- Finished the CommonLit assessment questions for that reading
+- Independent reading
+- Exit journal:
+  > In the context of "The Third Wave," why do people follow the crowd? What's an example of this in the novel you are currently reading?
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
 
 ### Friday, Sept 18

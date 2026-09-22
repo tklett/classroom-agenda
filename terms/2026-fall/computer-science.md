@@ -8,16 +8,23 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal opener: five new vocab words, then Give One, Get One
-- Building a Network: a human-network string activity, building a working network under increasingly tricky constraints
 - CertMaster work time
-- Exit ticket
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Monday, Sept 21
+- Journal opener: five new vocab words, then Give One, Get One
+- Quiz-corrections review: "Two Things Worth a Second Look" (8-bit value counts, and Abstraction)
+- Building a Network: a human-network string activity, building a working network under increasingly tricky constraints — ran the rest of the period
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
 
 ### Friday, Sept 18

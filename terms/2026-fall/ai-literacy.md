@@ -8,14 +8,24 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Unit 2 begins. Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- AIedu journal
-- Hallucination Hunt + microGPT Lab: warm up by generating plausible-sounding "facts" about the Great Wall of China, then train your own tiny GPT and watch it learn (and hallucinate) in real time
+- MicroGPT hands-on test-run: baseline run, dataset swap, then build your own dataset, working with a partner
+- Lateral-reading videos on Checkology
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Monday, Sept 21
+- AIedu journal
+- Sticky-note warm-up: generating plausible-sounding "facts" about the Great Wall of China
+- Tom demoed the annotated microGPT script — setup took longer than expected, so the hands-on worksheet moves to Tuesday
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
 
 ### Friday, Sept 18

@@ -8,15 +8,25 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Independent reading
-- New vocabulary
-- Start Reading Lesson 4: Brittany Stinson's "Model Application Essay 1"
+- Finish the Stinson Close Reading discussion
+- Then either the next reading lesson or a vocab review, depending on time
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Monday, Sept 21
+- Independent reading
+- New vocabulary
+- Started Reading Lesson 4: Brittany Stinson's "Model Application Essay 1" — Close Reading discussion started, continues Tuesday
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
 
 ### Friday, Sept 18

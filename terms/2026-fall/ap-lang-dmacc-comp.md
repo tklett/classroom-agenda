@@ -8,14 +8,23 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- In-class writing: testing your This I Believe claim against Marriott's essay
-- Book of Alchemy journal: pick an essay, journal on why (or why not) the class should read it
+- Grammar
+- Start the *They Say, I Say* Chapters 1–3 group project: work through the book filling in a Moves Chart (why each move matters, a tell-tale signal, a common error)
+- Annotate Marriott's essay for the same Ch. 1–3 moves
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Monday, Sept 21
+- In-class writing: testing your This I Believe claim against Marriott's essay
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 4 (Sept 14–18)</strong></summary>
 
 ### Friday, Sept 18
