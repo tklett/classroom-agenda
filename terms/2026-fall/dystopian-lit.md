@@ -8,17 +8,22 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Grammar Wednesday: Written Response, Third Wave Connection
 - Independent reading
-- Lit Terms Tuesday, Term #4: Point of View / Narration
-- Exit journal:
-  > What type of narrator does your novel have? How do you know? Point to a specific line or moment that proves it. Why do you think the author chose that?
+- Peer review
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Tuesday, Sept 22
+- Independent reading
+- Lit Terms Tuesday, Term #4: Point of View / Narration
+- Exit journal:
+  > What type of narrator does your novel have? How do you know? Point to a specific line or moment that proves it. Why do you think the author chose that?
 
 ### Monday, Sept 21
 - Article of the Week, Week 5: "The Third Wave"

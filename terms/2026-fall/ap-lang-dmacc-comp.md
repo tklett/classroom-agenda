@@ -8,16 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar
-- Start the *They Say, I Say* Chapters 1–3 group project: work through the book filling in a Moves Chart (why each move matters, a tell-tale signal, a common error)
-- Annotate Marriott's essay for the same Ch. 1–3 moves
+- Precision Wednesday: Paraphrase vs. Summary vs. Quotation
+- *They Say, I Say* Chapters 1–3 project, part 2: find one example of each chapter's move from a class text or your own writing, then build gallery-walk slides
+- Annotate Marriott's essay for the same Ch. 1–3 moves (if done with TSIS work)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Tuesday, Sept 22
+- Grammar
+- *They Say, I Say* Chapters 1–3 group project: filled in a Moves Chart (why each move matters, a tell-tale signal, a common error)
+- Marriott handed back for students to start finding moves in it independently
 
 ### Monday, Sept 21
 - In-class writing: testing your This I Believe claim against Marriott's essay

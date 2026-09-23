@@ -8,15 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- MicroGPT hands-on test-run: baseline run, dataset swap, then build your own dataset, working with a partner
-- Lateral-reading videos on Checkology
+- Short story: Vonnegut's "EPICAC"
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Tuesday, Sept 22
+- MicroGPT hands-on test-run finished
 
 ### Monday, Sept 21
 - AIedu journal

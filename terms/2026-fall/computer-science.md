@@ -8,7 +8,7 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - CertMaster work time
 
@@ -16,6 +16,10 @@ title: Computer Science — Agenda
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Tuesday, Sept 22
+- Opener: "What's that little padlock icon next to a website address actually checking?"
+- CertMaster work time
 
 ### Monday, Sept 21
 - Journal opener: five new vocab words, then Give One, Get One

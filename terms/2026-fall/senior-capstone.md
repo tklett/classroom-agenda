@@ -8,16 +8,21 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Independent reading
-- Finish the Stinson Close Reading discussion
-- Then either the next reading lesson or a vocab review, depending on time
+- Review the Model Essay 2 response slides
+- Grammar: Sentence Study — Opening with a Participial Phrase
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Tuesday, Sept 22
+- Independent reading
+- Finished the Stinson Close Reading discussion
+- Read Model Essay 2, then drafted a response to one of its questions as an EduProtocol slide deck
 
 ### Monday, Sept 21
 - Independent reading
