@@ -10,7 +10,9 @@ title: Senior Capstone — Agenda
 ## Next Class
 **Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Independent reading
 - Review the Model Essay 2 response slides, focusing on participial phrases students bolded in them
+- "Everyone Has a Brand": comparing Stinson's essay and Model Essay 2 to see how the same personal-essay skills work across different audiences (college, a job interview, a trade/apprenticeship program)
 
 ---
 

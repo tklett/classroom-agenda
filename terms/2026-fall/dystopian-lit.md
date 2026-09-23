@@ -10,7 +10,8 @@ title: Dystopian Literature — Agenda
 ## Next Class
 **Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Reading Theory Toolbox Ch. 4, "Subjectivity"
+- Reading Theory Toolbox Ch. 4, "Subjectivity," then independent reading
+- Exit journal (prompt TBD)
 
 ---
 

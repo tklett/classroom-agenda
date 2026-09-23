@@ -11,6 +11,7 @@ title: Computer Science — Agenda
 **Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Finish the Internet Simulator activity (carried over from Wednesday)
+- CertMaster work time
 
 ---
 

@@ -11,6 +11,9 @@ title: AI Literacy — Agenda
 **Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Finish discussing "EPICAC"
+- AI short story chat
+- Write a journal entry
+- Start the lateral-reading videos on Checkology
 
 ---
 
