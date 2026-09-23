@@ -8,14 +8,19 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Code.org AP CSP Unit 2, Lesson 3: The Need for Addressing
+- Finish the Internet Simulator activity (carried over from Wednesday)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Wednesday, Sept 23
+- Code.org's Internet Simulator was down during class, so only the verbal round of the "Planning Your Week" scheduling activity ran
+- Watched the IP video
+- Hands-on: set up an old computer tower, working around a missing cable
 
 ### Tuesday, Sept 22
 - Opener: "What's that little padlock icon next to a website address actually checking?"
