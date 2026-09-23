@@ -8,16 +8,19 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Independent reading
-- Review the Model Essay 2 response slides
-- Grammar: Sentence Study — Opening with a Participial Phrase
+- Review the Model Essay 2 response slides, focusing on participial phrases students bolded in them
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Wednesday, Sept 23
+- Independent reading
+- Sentence Study: Opening with a Participial Phrase
+- Went back to Model Essay 2 group responses and bolded any participial phrases found
 
 ### Tuesday, Sept 22
 - Independent reading

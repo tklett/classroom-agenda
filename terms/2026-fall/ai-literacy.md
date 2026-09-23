@@ -8,14 +8,18 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Short story: Vonnegut's "EPICAC"
+- Finish discussing "EPICAC"
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Wednesday, Sept 23
+- Read Vonnegut's "EPICAC," talked over initial impressions in groups
+- Discussed the Vocabulary question — continues Thursday
 
 ### Tuesday, Sept 22
 - MicroGPT hands-on test-run finished

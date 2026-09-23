@@ -8,16 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Precision Wednesday: Paraphrase vs. Summary vs. Quotation
-- *They Say, I Say* Chapters 1–3 project, part 2: find one example of each chapter's move from a class text or your own writing, then build gallery-walk slides
-- Annotate Marriott's essay for the same Ch. 1–3 moves (if done with TSIS work)
+- Grammar review
+- Finish finding *They Say, I Say* Ch. 1–3 examples
+- Start building the gallery-walk slides
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Wednesday, Sept 23
+- Precision Wednesday: Paraphrase vs. Summary vs. Quotation
+- *They Say, I Say* Chapters 1–3 project, part 2: finding examples of each chapter's move — still in progress, continues Thursday
 
 ### Tuesday, Sept 22
 - Grammar
