@@ -10,7 +10,7 @@ title: Computer Science — Agenda
 ## Next Class
 **Wednesday, Sept 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- CertMaster work time
+- Code.org AP CSP Unit 2, Lesson 3: The Need for Addressing
 
 ---
 
