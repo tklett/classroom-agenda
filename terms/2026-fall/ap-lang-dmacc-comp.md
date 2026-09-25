@@ -8,16 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
 
-- Grammar review
-- Finish finding *They Say, I Say* Ch. 1–3 examples
-- Start building the gallery-walk slides
+- Grammar Quiz #2 and Retake for Quiz #1
+- Finish slides
+- Fallacy Friday: Strawman and Black or White
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Thursday, Sept 24
+- Grammar review (Google Classroom practice set)
+- Finished finding *They Say, I Say* Ch. 1–3 examples
+- Built the gallery-walk slides
 
 ### Wednesday, Sept 23
 - Precision Wednesday: Paraphrase vs. Summary vs. Quotation

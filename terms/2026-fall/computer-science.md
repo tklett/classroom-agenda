@@ -8,15 +8,18 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
 
-- Finish the Internet Simulator activity (carried over from Wednesday)
 - CertMaster work time
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Thursday, Sept 24
+- Finished the Internet Simulator activity (Weeks 2–3, carried over from Wednesday)
+- CertMaster work time
 
 ### Wednesday, Sept 23
 - Code.org's Internet Simulator was down during class, so only the verbal round of the "Planning Your Week" scheduling activity ran

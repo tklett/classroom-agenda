@@ -8,16 +8,23 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
 
-- Independent reading
-- Review the Model Essay 2 response slides, focusing on participial phrases students bolded in them
-- "Everyone Has a Brand": comparing Stinson's essay and Model Essay 2 to see how the same personal-essay skills work across different audiences (college, a job interview, a trade/apprenticeship program)
+- Vocab Quiz #1
+- Read novel
+- Brand notes
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Thursday, Sept 24
+- Reviewed the Model Essay 2 response slides, focusing on participial phrases students bolded in them
+- Grammar reteach, "Fix the Opener": rewriting near-miss sentences into true participial-phrase openers
+- Started "Everyone Has a Brand":
+  > What does it mean to describe yourself as a "brand"?
+- Journal: your own "brand" — the traits and story you want people to remember about you
 
 ### Wednesday, Sept 23
 - Independent reading

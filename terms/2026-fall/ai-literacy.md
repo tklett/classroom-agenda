@@ -8,17 +8,21 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Sept 24** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
 
-- Finish discussing "EPICAC"
-- AI short story chat
-- Write a journal entry
-- Start the lateral-reading videos on Checkology
+- Journal check
+- Lateral reading video
+- SIFT activity (on Classroom)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Thursday, Sept 24
+- Finished discussing "EPICAC" (Function, Central Idea, Inference, Author's Purpose)
+- AI short story chat (SchoolAI chatbot conversation about the story)
+- Journal entry, written after the chatbot conversation
 
 ### Wednesday, Sept 23
 - Read Vonnegut's "EPICAC," talked over initial impressions in groups
