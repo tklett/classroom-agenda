@@ -8,16 +8,19 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
+**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Vocab Quiz #1
-- Read novel
-- Brand notes
+- Continue "Everyone Has a Brand"
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Friday, Sept 25
+- Vocab Quiz #1
+- Independent reading
+- Continued "Everyone Has a Brand" (still not finished, continues Monday)
 
 ### Thursday, Sept 24
 - Reviewed the Model Essay 2 response slides, focusing on participial phrases students bolded in them

@@ -8,16 +8,19 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
+**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar Quiz #2 and Retake for Quiz #1
-- Finish slides
-- Fallacy Friday: Strawman and Black or White
+- Gallery walk (TSIS Ch. 1–3 examples)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Friday, Sept 25
+- Grammar Quiz #2 and Retake for Quiz #1
+- Annotated Marriott for *They Say, I Say* Ch. 1–3 moves
+- Fallacy Friday: Strawman and Black or White
 
 ### Thursday, Sept 24
 - Grammar review (Google Classroom practice set)

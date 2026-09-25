@@ -8,17 +8,18 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
-
-- Recap: the Third Wave, connected to interpellation
-- Independent reading
-- Journal:
-  > How are characters in your novel subjected to the positions they are in? How do they try to break free? And what limitations do they encounter?
+**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Friday, Sept 25
+- Recap: the Third Wave, connected to interpellation
+- Independent reading
+- Journal:
+  > How are characters in your novel subjected to the positions they are in? How do they try to break free? And what limitations do they encounter?
 
 ### Thursday, Sept 24
 - Read/discussed Theory Toolbox Ch. 4, "Subjectivity" — self vs. subject, the driver/passenger analogy, interpellation, and the "hailing" moment

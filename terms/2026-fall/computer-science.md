@@ -8,14 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
-
-- CertMaster work time
+**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Friday, Sept 25
+- CertMaster work time (modified, shortened schedule today)
 
 ### Thursday, Sept 24
 - Finished the Internet Simulator activity (Weeks 2–3, carried over from Wednesday)

@@ -8,16 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Sept 25** — *Modified schedule today (back to normal Monday). Plan, not yet confirmed.*
-
-- Journal check
-- Lateral reading video
-- SIFT activity (on Classroom)
+**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
+
+### Friday, Sept 25
+- Journal check
+- Lateral reading video (carried over from Thursday)
+- SIFT activity (Google Classroom)
 
 ### Thursday, Sept 24
 - Finished discussing "EPICAC" (Function, Central Idea, Inference, Author's Purpose)
