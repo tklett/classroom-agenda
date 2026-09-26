@@ -97,7 +97,7 @@ title: AP Lang / DMACC Comp — Agenda
 - Persona exit ticket
 
 ### Tuesday, Sept 8
-- Book of Alchemy essay: "Alchemy" by Pico Iyer
+- Book of Alchemy essay: "Journey and Journal" by Pico Iyer, read and journaled on
 - Grammar: Dashes review
 - Synthesis activity: one idea each from Didion, Graham, and Iyer, plus advice for seniors writing college essays
 
