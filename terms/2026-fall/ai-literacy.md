@@ -10,6 +10,10 @@ title: AI Literacy — Agenda
 ## Next Class
 **Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Journal: "Agree or Disagree: News organizations should be required to label all content that was created with the help of AI. Why?"
+- SIFT / Lateral Reading
+- RumorGuard
+- "Is It Legit?" Infographic and Quiz
 - Source Hunt: find one credible and one questionable source on a topic, and evaluate both with the "Is It Legit?" five-step framework
 
 ---

@@ -10,7 +10,10 @@ title: AP Lang / DMACC Comp — Agenda
 ## Next Class
 **Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Book of Alchemy reading + journal
+  > "Letter from a Burning Building" by Susan Cheever
 - Gallery walk (TSIS Ch. 1–3 examples)
+- Cheat sheet development
 
 ---
 

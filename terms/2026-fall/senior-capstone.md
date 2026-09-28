@@ -10,7 +10,9 @@ title: Senior Capstone — Agenda
 ## Next Class
 **Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Continue "Everyone Has a Brand"
+- Vocab
+- School Links profile and resume export
+- Start planning your essay
 
 ---
 

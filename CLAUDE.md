@@ -48,6 +48,20 @@ entries — also update this repo's **"Next Class"** box for each course
 mentioned, replacing whatever was there before. Label stays "Plan — not
 yet confirmed."
 
+**Prefer `daily-notes/YYYY-MM-DD.md` over the conversation thread when
+both exist for that date.** Tom builds these directly in the private
+repo — sometimes ahead of the actual date, sometimes updated mid-day
+from a different device — without necessarily walking through the plan
+in this conversation first. It's usually the richer, more complete
+version of "what's happening that day" across all five courses, so
+when a matching `daily-notes` file exists for the date in question,
+pull each course's Next Class box from there rather than from whatever
+partial version came up in conversation. Fall back to what's been
+discussed in the thread only when no `daily-notes` file exists for that
+date, or Tom says the file is stale/wrong. Still apply the curation
+rule as normal — activities and verbatim prompts only, nothing else
+Deckset-flavored (speaker notes, timing, rationale) makes it across.
+
 **B. When Tom reports what actually happened** — the same message that
 produces the private repo's `agenda-log.md` "Actual" entry — fold that
 day into the correct course page's **current week's `<details>` block**
