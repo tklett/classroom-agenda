@@ -8,15 +8,25 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Sept 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Vocab
-- School Links profile and resume export
-- Start planning your essay
+- Start planning your essay (carried over from Monday, packet printed and ready)
+- Essay craft note
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Monday, Sept 28
+- Vocab
+- School Links profile and resume export
+- Started planning your essay — didn't get to it today, moves to Tuesday
+- Journal audit
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 5 (Sept 21–25)</strong></summary>
 
 ### Friday, Sept 25
