@@ -10,6 +10,10 @@ title: Dystopian Literature — Agenda
 ## Next Class
 **Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Article of the Week: "Revisiting Milgram's Shocking Obedience Experiments"
+- CommonLit questions
+- Starting *The Hunger Games* — Unit 2 begins today
+
 ---
 
 <details markdown="1" open>
