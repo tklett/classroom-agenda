@@ -10,6 +10,8 @@ title: AI Literacy — Agenda
 ## Next Class
 **Monday, Sept 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Source Hunt: find one credible and one questionable source on a topic, and evaluate both with the "Is It Legit?" five-step framework
+
 ---
 
 <details markdown="1" open>
