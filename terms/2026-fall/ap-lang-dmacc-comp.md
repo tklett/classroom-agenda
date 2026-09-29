@@ -12,6 +12,8 @@ title: AP Lang / DMACC Comp — Agenda
 
 - Cheat sheet groups (carried over from Monday)
 - Grammar
+- Marriott Scavenger Hunt: bracket examples of TSIS Ch. 1–3 moves in the Marriott piece and write the move name next to each one (plus a 4th "Impostor" item — a quote that looks like a Ch. 3 move but is missing something)
+- Reminder: Active Voice Retake Quiz, Friday Oct 2 (5 questions)
 
 ---
 

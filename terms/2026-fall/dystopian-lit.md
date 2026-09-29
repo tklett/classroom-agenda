@@ -10,7 +10,8 @@ title: Dystopian Literature — Agenda
 ## Next Class
 **Tuesday, Sept 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Lit Term Tuesday: Rhetoric
+- Lit Term Tuesday: Rhetoric (Ethos, Pathos, Logos)
+- KAN reminder: Keep/Ask/Notice, at least one entry per reading week
 
 ---
 
