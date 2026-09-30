@@ -8,15 +8,23 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Lit Term Tuesday: Rhetoric (Ethos, Pathos, Logos)
-- KAN reminder: Keep/Ask/Notice, at least one entry per reading week
+- Grammar: "One Subject, or Two?" comma reteach
+- Milgram Claim → Evidence reteach
+- Written Response: "Revising Milgram"
+  > Make one claim about what Milgram's revised data actually shows. Then give two pieces of evidence: one that actually proves it and one that's tempting but wrong — and explain why each is what it is.
+- Read *The Hunger Games*
+- Reminder: Quiz on Thursday!
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Tuesday, Sept 29
+- Lit Term Tuesday: Rhetoric (Ethos, Pathos, Logos)
+- KAN reminder: Keep/Ask/Notice, at least one entry per reading week
 
 ### Monday, Sept 28
 - Article of the Week: "Revisiting Milgram's Shocking Obedience Experiments"

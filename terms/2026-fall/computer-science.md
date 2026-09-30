@@ -8,14 +8,16 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- CertMaster work time
+**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Tuesday, Sept 29
+- "Musical Chairs — DHCP Edition" review activity
+- CertMaster work time
 
 ### Monday, Sept 28
 - CertMaster work time

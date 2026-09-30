@@ -8,14 +8,20 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Sept 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Wrap up Source Hunt (carried over from Monday)
+- Move of the Week: What Is a Claim?
+- Article of the Week + Journal: "How Search Engines Spread Misinformation"
+  > Journal: How does the author support the argument that human and technological factors lead to the spreading of misinformation through online search engines?
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Tuesday, Sept 29
+- Wrapped up Source Hunt (carried over from Monday)
+- Finished SIFT from last week
 
 ### Monday, Sept 28
 - Journal: "Agree or Disagree: News organizations should be required to label all content that was created with the help of AI. Why?"
