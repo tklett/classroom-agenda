@@ -10,8 +10,9 @@ title: AP Lang / DMACC Comp — Agenda
 ## Next Class
 **Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- They Say, I Say Ch. 1–3 pop quiz (individual or partner/group, TBD)
-- Reminder: Active Voice Retake Quiz, Friday Oct 2 (5 questions)
+- Precision Wednesday: Synthesis vs. Summary
+- Cheat Sheets: Finding More Examples (see Google Classroom)
+- Reminder: They Say, I Say Ch. 1–3 pop quiz and Active Voice Retake Quiz may both run Friday Oct 2
 
 ---
 
