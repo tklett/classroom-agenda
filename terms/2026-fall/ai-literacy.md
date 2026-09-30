@@ -8,16 +8,20 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Move of the Week: What Is a Claim?
-- Article of the Week + Journal: "How Search Engines Spread Misinformation"
-  > Journal: How does the author support the argument that human and technological factors lead to the spreading of misinformation through online search engines?
+- Discuss "How Search Engines Spread Misinformation" (carried over from Wednesday)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Wednesday, Sept 30
+- Move of the Week: What Is a Claim?
+- Article of the Week: read, then CommonLit MCQs
+  > Journal: What is the strongest piece of evidence or the strongest example the author provides in this article? Explain why you think that.
+- Discussion questions not reached today — moves to Thursday
 
 ### Tuesday, Sept 29
 - Wrapped up Source Hunt (carried over from Monday)

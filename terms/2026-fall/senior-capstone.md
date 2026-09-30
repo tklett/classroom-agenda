@@ -8,15 +8,18 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar
-- Drafting essay
+- Continue drafting essay
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Wednesday, Sept 30
+- Grammar (Google Classroom)
+- Drafting essay (Google Classroom)
 
 ### Tuesday, Sept 29
 - Completed "Planning Your Essay" and "Choosing Your Craft Technique" handouts

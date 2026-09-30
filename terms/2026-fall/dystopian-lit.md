@@ -8,19 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar: "One Subject, or Two?" comma reteach
-- Milgram Claim → Evidence reteach
-- Written Response: "Revising Milgram"
-  > Make one claim about what Milgram's revised data actually shows. Then give two pieces of evidence: one that actually proves it and one that's tempting but wrong — and explain why each is what it is.
-- Read *The Hunger Games*
-- Reminder: Quiz on Thursday!
+- Quiz
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Wednesday, Sept 30
+- Grammar: "One Subject, or Two?" comma reteach
+- Milgram Claim → Evidence reteach
+- Written Response: "Revising Milgram"
+  > Make one claim about what Milgram's revised data actually shows. Then give two pieces of evidence: one that actually proves it and one that's tempting but wrong — and explain why each is what it is.
+- Read *The Hunger Games*
 
 ### Tuesday, Sept 29
 - Lit Term Tuesday: Rhetoric (Ethos, Pathos, Logos)

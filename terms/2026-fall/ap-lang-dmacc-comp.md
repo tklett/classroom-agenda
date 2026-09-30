@@ -8,16 +8,18 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Sept 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Precision Wednesday: Synthesis vs. Summary
-- Cheat Sheets: Finding More Examples (see Google Classroom)
-- Reminder: They Say, I Say Ch. 1–3 pop quiz and Active Voice Retake Quiz may both run Friday Oct 2
+- Reminder: They Say, I Say Ch. 1–3 pop quiz and Active Voice Retake Quiz, Friday Oct 2
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Wednesday, Sept 30
+- Precision Wednesday: Synthesis vs. Summary
+- Cheat Sheets: Finding More Examples (Google Classroom) — not everyone finished
 
 ### Tuesday, Sept 29
 - Grammar
