@@ -10,6 +10,8 @@ title: AP Lang / DMACC Comp — Agenda
 ## Next Class
 **Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Grammar
+- Start reading Martin Luther King Jr.'s "Letter from Birmingham Jail"
 - Reminder: They Say, I Say Ch. 1–3 pop quiz and Active Voice Retake Quiz, Friday Oct 2
 
 ---

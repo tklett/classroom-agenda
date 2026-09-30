@@ -11,6 +11,7 @@ title: AI Literacy — Agenda
 **Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Discuss "How Search Engines Spread Misinformation" (carried over from Wednesday)
+- Develop AI artifact
 
 ---
 

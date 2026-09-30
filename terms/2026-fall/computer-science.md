@@ -10,6 +10,8 @@ title: Computer Science — Agenda
 ## Next Class
 **Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Finch exploration
+
 ---
 
 <details markdown="1" open>
