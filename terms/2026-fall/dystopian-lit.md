@@ -8,16 +8,14 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Quiz
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
-
-### Thursday, Oct 1
-- Unit 1 Checkpoint Quiz
-- Independent reading afterward
 
 ### Wednesday, Sept 30
 - Grammar: "One Subject, or Two?" comma reteach
