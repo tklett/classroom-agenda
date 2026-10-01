@@ -8,14 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 1** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finch exploration
+**Friday, Oct 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Thursday, Oct 1
+- Finch exploration
 
 ### Wednesday, Sept 30
 - Finch introduction
