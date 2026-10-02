@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Continue work on the Credibility Audit
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Friday, Oct 2
+- Developed the AI output for the Credibility Audit and identified its claims
 
 ### Thursday, Oct 1
 - Discussed "How Search Engines Spread Misinformation": individual AI-chatbot prep, then small-group discussion, then an individual discussion post

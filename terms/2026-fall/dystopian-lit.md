@@ -8,15 +8,18 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Journal: Keep / Ask / Notice
-- Read *The Hunger Games*
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
+
+### Friday, Oct 2
+- Test corrections on Thursday's quiz
+- Journal: Keep / Ask / Notice
+- Read *The Hunger Games*
+- Think-Pair-Share
 
 ### Thursday, Oct 1
 - Quiz
