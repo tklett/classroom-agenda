@@ -8,7 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back soon.*
+**Monday, Oct 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Independent reading
+- Vocabulary
+- Start *Othello*
 
 ---
 

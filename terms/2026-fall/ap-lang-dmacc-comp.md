@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back soon.*
+**Monday, Oct 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Book of Alchemy journal: "Art of Dailiness"
+- Continue reading Martin Luther King Jr.'s "Letter from Birmingham Jail"
 
 ---
 
