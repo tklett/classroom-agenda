@@ -8,14 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Article of the Week
-- Read *The Hunger Games*
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Monday, Oct 5
+- Article of the Week: Debord, "We Have Been Reduced to Spectators in a Society of Endless Spectacle"
+- Read *The Hunger Games*
+- Thin Slide group discussions (continuing next class)
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
 
 ### Friday, Oct 2

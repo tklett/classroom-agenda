@@ -8,14 +8,22 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Book of Alchemy journal: "Art of Dailiness"
-- Continue reading Martin Luther King Jr.'s "Letter from Birmingham Jail"
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Monday, Oct 5
+- Book of Alchemy journal: "Art of Dailiness," p. 15
+- Continued reading Martin Luther King Jr.'s "Letter from Birmingham Jail"
+- Watched Ely Kim's "Boombox" video
+- Homework: read to p. 10 of the MLK/clergy-letter packet
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
 
 ### Friday, Oct 2

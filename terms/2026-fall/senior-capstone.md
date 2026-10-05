@@ -8,15 +8,21 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Independent reading
-- Vocabulary
-- Start *Othello*
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Monday, Oct 5
+- Independent reading
+- Vocabulary
+- Started *Othello*
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 6 (Sept 28–Oct 2)</strong></summary>
 
 ### Friday, Oct 2
