@@ -8,7 +8,11 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back soon.*
+**Tuesday, Oct 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Work time to finish reading King's letter
+- Group discussion: "Letter from Birmingham Jail"
+- Start the King Essay Planner, if time remains
 
 ---
 

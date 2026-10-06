@@ -8,7 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back soon.*
+**Tuesday, Oct 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- More Othello notes
+- Watch an animated Othello film
+- Exit ticket (Google Classroom)
 
 ---
 
