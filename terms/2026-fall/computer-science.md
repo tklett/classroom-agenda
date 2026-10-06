@@ -8,7 +8,9 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Prep for tomorrow's elementary-school visit
 
 ---
 
@@ -17,6 +19,8 @@ title: Computer Science — Agenda
 
 ### Tuesday, Oct 6
 - CertMaster work time
+- Journal:
+  > What is one CertMaster concept you've learned that is interesting and why? And what is one thing in the Tech+ curriculum so far that makes you go, "Really? Isn't this just common knowledge?"
 
 ### Monday, Oct 5
 - CertMaster work time

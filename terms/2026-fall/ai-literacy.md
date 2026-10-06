@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Read Douglas Adams's Deep Thought excerpt (*The Hitchhiker's Guide to the Galaxy*) for the journal
 
 ---
 
