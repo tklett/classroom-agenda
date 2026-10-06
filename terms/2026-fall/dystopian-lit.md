@@ -8,16 +8,17 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Read *The Hunger Games*
-- Wrap up Thin Slide discussions
-- Tone vs. Mood notes
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Tuesday, Oct 6
+- Read *The Hunger Games*
+- Wrapped up Thin Slide discussions
+- Lit Term Tuesday, Term #6: Tone vs. Mood
 
 ### Monday, Oct 5
 - Article of the Week: Debord, "We Have Been Reduced to Spectators in a Society of Endless Spectacle"

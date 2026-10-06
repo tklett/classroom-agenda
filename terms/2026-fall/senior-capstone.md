@@ -8,16 +8,19 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- More Othello notes
-- Watch an animated Othello film
-- Exit ticket (Google Classroom)
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Tuesday, Oct 6
+- "Meet Othello": context and race framing, content warning
+- Five people to know (character intro)
+- Watched the animated Othello film
+- Exit ticket:
+  > What does Iago understand about Othello that allows him to manipulate him? Explain your current thinking using one specific moment from the story.
 
 ### Monday, Oct 5
 - Independent reading

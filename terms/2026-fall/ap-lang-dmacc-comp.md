@@ -8,16 +8,18 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Work time to finish reading King's letter
-- Group discussion: "Letter from Birmingham Jail"
-- Start the King Essay Planner, if time remains
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Tuesday, Oct 6
+- Work time to finish reading King's letter
+- Grammar (Google Classroom) — quiz Friday
+- Group discussion: "Letter from Birmingham Jail" — marking where King refers to the clergy vs. brings in outside sources
+- King Essay Planner distributed (not filled in yet)
 
 ### Monday, Oct 5
 - Book of Alchemy journal: "Art of Dailiness," p. 15
