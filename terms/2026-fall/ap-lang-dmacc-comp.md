@@ -8,15 +8,16 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Precision Wednesday: Kairos
-- TSIS Ch. 4 group activity: find examples of agree, disagree, and agree/disagree-at-once responses
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Wednesday, Oct 7
+- Precision Wednesday: Kairos
+- TSIS Ch. 4 activity: find examples of agree, disagree, and agree/disagree-at-once responses (solo or with a partner)
 
 ### Tuesday, Oct 6
 - Work time to finish reading King's letter

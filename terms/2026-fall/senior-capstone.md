@@ -8,14 +8,15 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Start watching the Stratford Festival production of *Othello*, Act I (continues Thursday)
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Wednesday, Oct 7
+- Started watching the Stratford Festival production of *Othello*, Act I (continues Thursday)
 
 ### Tuesday, Oct 6
 - "Meet Othello": context and race framing, content warning

@@ -8,14 +8,16 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Start the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Wednesday, Oct 7
+- Finished the Credibility Report
+- Gemini Student Certification extension work
 
 ### Tuesday, Oct 6
 - Finished the Credibility Report

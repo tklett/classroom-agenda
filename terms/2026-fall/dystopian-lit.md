@@ -8,15 +8,16 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Written response: Tone vs. Mood
-- Read *The Hunger Games*
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Wednesday, Oct 7
+- Written response: Tone vs. Mood
+- Read *The Hunger Games*
 
 ### Tuesday, Oct 6
 - Read *The Hunger Games*

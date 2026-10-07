@@ -8,14 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Prep the Finch robots for tomorrow's elementary-school visit
+*Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Wednesday, Oct 7
+- Prepped the Finch robots for tomorrow's elementary-school visit
 
 ### Tuesday, Oct 6
 - CertMaster work time
