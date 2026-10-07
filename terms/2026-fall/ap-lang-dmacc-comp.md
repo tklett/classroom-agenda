@@ -11,7 +11,7 @@ title: AP Lang / DMACC Comp — Agenda
 **Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Precision Wednesday: Kairos
-- Start King Session 1
+- TSIS Ch. 4 group activity: find examples of agree, disagree, and agree/disagree-at-once responses
 
 ---
 

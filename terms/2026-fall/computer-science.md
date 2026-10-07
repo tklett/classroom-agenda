@@ -10,7 +10,7 @@ title: Computer Science — Agenda
 ## Next Class
 **Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Prep for tomorrow's elementary-school visit
+- Prep the Finch robots for tomorrow's elementary-school visit
 
 ---
 

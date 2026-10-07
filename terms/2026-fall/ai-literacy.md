@@ -10,7 +10,7 @@ title: AI Literacy — Agenda
 ## Next Class
 **Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Read Douglas Adams's Deep Thought excerpt (*The Hitchhiker's Guide to the Galaxy*) for the journal
+- Start the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
 
 ---
 

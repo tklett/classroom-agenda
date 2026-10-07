@@ -10,7 +10,7 @@ title: Senior Capstone — Agenda
 ## Next Class
 **Wednesday, Oct 7** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Watch Act I of *Othello* (continues Thursday)
+- Start watching the Stratford Festival production of *Othello*, Act I (continues Thursday)
 
 ---
 
