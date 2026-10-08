@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Finish watching the Stratford Festival production of *Othello*, Act I
+- Start the Act I Close Reading packet
 
 ---
 

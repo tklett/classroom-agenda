@@ -8,7 +8,10 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Read the "Culture" excerpt (Theory Toolbox)
+- Read *The Hunger Games*
 
 ---
 

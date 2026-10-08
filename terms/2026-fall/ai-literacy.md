@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Start the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
 
 ---
 

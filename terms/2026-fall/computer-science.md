@@ -8,7 +8,9 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Visit the elementary school to teach Finch robots to 3rd grade
 
 ---
 

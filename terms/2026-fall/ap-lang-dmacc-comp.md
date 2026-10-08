@@ -8,7 +8,11 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back closer to class.*
+**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Look back over Wednesday's TSIS Ch. 4 examples
+- TSIS Ch. 4 King Packet
+- Grammar (Gimkit)
 
 ---
 
