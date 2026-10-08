@@ -8,14 +8,18 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Start the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
+- Read Douglas Adams's "Deep Thought" excerpt and interact with it (Google Classroom)
+- Continue the AI Infrastructure Impact Investigation
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Thursday, Oct 8
+- Continued the Credibility Report / started the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
 
 ### Wednesday, Oct 7
 - Finished the Credibility Report

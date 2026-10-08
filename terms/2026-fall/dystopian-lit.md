@@ -8,15 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Read the "Culture" excerpt (Theory Toolbox)
+- Journal: "Who Is This For?"
 - Read *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Thursday, Oct 8
+- Read the "Culture" excerpt (Theory Toolbox)
+- Sticky note: name and the furthest chapter you feel comfortable talking about
+- Journal: Keep / Ask / Notice
+- Read *The Hunger Games*
 
 ### Wednesday, Oct 7
 - Written response: Tone vs. Mood

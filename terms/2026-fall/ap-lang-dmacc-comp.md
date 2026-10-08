@@ -8,16 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 8** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Look back over Wednesday's TSIS Ch. 4 examples
-- TSIS Ch. 4 King Packet
-- Grammar (Gimkit)
+- Grammar Quiz #3: Wordiness & Redundancy
+- Finish the TSIS Ch. 4 King Packet
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
+
+### Thursday, Oct 8
+- Looked back over Wednesday's TSIS Ch. 4 examples
+- TSIS Ch. 4 King Packet
+- Grammar (Gimkit)
 
 ### Wednesday, Oct 7
 - Precision Wednesday: Kairos
