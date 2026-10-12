@@ -18,6 +18,10 @@ title: AP Lang / DMACC Comp — Agenda
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
+### Friday, Oct 9
+- Grammar Quiz #3: Wordiness & Redundancy
+- Finished the TSIS Ch. 4 King Packet
+
 ### Thursday, Oct 8
 - Looked back over Wednesday's TSIS Ch. 4 examples
 - TSIS Ch. 4 King Packet

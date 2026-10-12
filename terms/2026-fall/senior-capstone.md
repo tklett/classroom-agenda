@@ -19,6 +19,10 @@ title: Senior Capstone — Agenda
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
+### Friday, Oct 9
+- Independent reading
+- Book Analysis: copy and defend the most telling sentence/passage from today's reading (with page number), explain in 5-7 sentences what it shows about a character, idea, or authorial choice, then write one open question for the book
+
 ### Thursday, Oct 8
 - Finished watching the Stratford Festival production of *Othello*, Act I
 - Started the Act I Close Reading packet (turned in at end of class)

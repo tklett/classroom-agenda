@@ -17,6 +17,9 @@ title: Computer Science — Agenda
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
+### Friday, Oct 9
+- CertMaster work time
+
 ### Thursday, Oct 8
 - Visited the elementary school to teach Finch robots to 3rd grade
 

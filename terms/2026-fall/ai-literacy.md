@@ -18,6 +18,10 @@ title: AI Literacy — Agenda
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
+### Friday, Oct 9
+- Read Douglas Adams's "Deep Thought" excerpt and interacted with it (Google Classroom)
+- Continued the AI Infrastructure Impact Investigation
+
 ### Thursday, Oct 8
 - Continued the Credibility Report / started the AI Infrastructure Impact Investigation: pick an AI tool you use and research its real-world costs
 

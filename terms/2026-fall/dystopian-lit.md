@@ -22,6 +22,17 @@ title: Dystopian Literature — Agenda
 <details markdown="1" open>
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
+### Friday, Oct 9
+- Read *The Hunger Games*
+- Journal: "Who Is This For?"
+  > This week you've read about spectacle (when how something looks to an audience matters more than the thing itself) and about how pop culture teaches us what to want. The Capitol uses all of this.
+  >
+  > Choose one detail from the Capitol: clothing, food, a broadcast, a ritual, or someone's performance. If you haven't reached the Capitol yet, use the reaping.
+  >
+  > - The detail. Describe it in one or two sentences and point to the specific moment or line.
+  > - Who is it for? Picture the cameras and crowds disappearing. Would this detail still happen? If it would, who is it for? If it wouldn't, who is it for: the Capitol audience, the tributes, the sponsors, or the Gamemakers? Then say what it teaches people to want or feel, and who benefits when they learn it.
+  > - Tone vs. mood. What is Katniss's attitude toward this detail? Give it one word. What does the scene make you feel? Are the two the same or different? What does that gap tell you about whether Katniss is buying in?
+
 ### Thursday, Oct 8
 - Read the "Culture" excerpt (Theory Toolbox)
 - Sticky note: name and the furthest chapter you feel comfortable talking about
