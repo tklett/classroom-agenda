@@ -8,7 +8,10 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Plan not yet posted. Check back soon.*
+**Tuesday, Oct 13** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Read *The Hunger Games*
+- Lit Term Tuesday, Term #7: Archetypes
 
 ---
 
