@@ -11,6 +11,7 @@ title: Dystopian Literature — Agenda
 **Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Article of the Week: "Reality check: life behind Insta-glam image of 'influencers'" (Suzanne Bearne) — answer the CommonLit questions
+- Read *The Hunger Games*
 - Journal Collage introduced: "Go Find Your Best Evidence" — reread all six Friday journals and find evidence for:
   > How does a society get people to go along with their own control, and what does that cost them?
 

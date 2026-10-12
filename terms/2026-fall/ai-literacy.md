@@ -11,6 +11,7 @@ title: AI Literacy — Agenda
 **Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - Journal
+- Continue the AI Infrastructure Impact Investigation
 
 ---
 
