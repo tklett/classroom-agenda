@@ -8,14 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Book of Alchemy journal: "Listening" by Esther Perel, p. 133
-- TSIS Ch. 5 Group Activity
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Monday, Oct 12
+- Book of Alchemy journal: "Listening" by Esther Perel, p. 133
+- TSIS Ch. 5 Group Activity — reviewed the group highlighting from Exercise 1 at the end of class
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
 ### Friday, Oct 9

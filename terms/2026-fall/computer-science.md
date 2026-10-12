@@ -8,13 +8,22 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- CertMaster work time
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Monday, Oct 12
+- Journal:
+  > Last week you worked with elementary students. Think of one specific moment, something a kid said, did, or asked about technology. What's the biggest similarity between how they use tech and how you do? What's the biggest difference? Why do you think that is?
+- CertMaster check-in reports
+- CertMaster work time
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
 ### Friday, Oct 9

@@ -8,14 +8,20 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Journal
-- Continue the AI Infrastructure Impact Investigation
+*Plan not yet posted. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Monday, Oct 12
+- Journal
+- Worked on the AI Infrastructure Impact Investigation
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 7 (Oct 5–9)</strong></summary>
 
 ### Friday, Oct 9
