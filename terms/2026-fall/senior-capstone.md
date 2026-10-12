@@ -8,9 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Independent reading
+- Vocabulary
+- Continue watching the Stratford Festival production of *Othello*, Act 2
+- If time remains: Close Read 2, "What Is Reputation Worth?" (Act 2, Scene 3)
 
 ---
 

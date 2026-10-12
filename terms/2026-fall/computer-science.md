@@ -8,7 +8,7 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - CertMaster work time
 

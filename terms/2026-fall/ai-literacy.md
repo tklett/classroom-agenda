@@ -8,10 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Read Douglas Adams's "Deep Thought" excerpt and interact with it (Google Classroom)
-- Continue the AI Infrastructure Impact Investigation
+- Journal
 
 ---
 

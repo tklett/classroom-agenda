@@ -8,10 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar Quiz #3: Wordiness & Redundancy
-- Finish the TSIS Ch. 4 King Packet
+- Book of Alchemy journal: "Listening" by Esther Perel, p. 133
+- TSIS Ch. 5 Group Activity
 
 ---
 

@@ -8,10 +8,13 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal: "Who Is This For?"
-- Read *The Hunger Games*
+- Article of the Week: "Reality check: life behind Insta-glam image of 'influencers'" (Suzanne Bearne) — answer the CommonLit questions
+- Journal Collage introduced: "Go Find Your Best Evidence" — reread all six Friday journals and find evidence for:
+  > How does a society get people to go along with their own control, and what does that cost them?
+
+  Print four excerpts and bring them to class Wednesday.
 
 ---
 
