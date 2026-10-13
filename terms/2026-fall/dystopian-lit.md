@@ -8,15 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 13** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Read *The Hunger Games*
-- Lit Term Tuesday, Term #7: Archetypes
+- Journal Collage build — arranging and annotating your four printed evidence pieces from the Journal Hunt, then writing one claim about *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Tuesday, Oct 13
+- Lit Term Tuesday, Term #7: Archetypes
+- Journal Hunt reminder ("Go Find Your Best Evidence")
+- Read *The Hunger Games*
+- Closing Think-Pair-Share:
+  > Identify one of these archetypes in some other work of fiction (book, movie, video game, etc.): hero, mentor, trickster, innocent child, devil, temptress, tragic lover, powerful mother, the princess. What was their role in that story? Did it fit the expectations, or did the character break their archetype at all?
 
 ### Monday, Oct 12
 - Article of the Week: "Reality check: life behind Insta-glam image of 'influencers'" (Suzanne Bearne) — answered the CommonLit questions

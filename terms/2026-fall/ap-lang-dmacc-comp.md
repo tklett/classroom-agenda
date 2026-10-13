@@ -8,15 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 13** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar: Avoiding Awkward Constructions (dangling modifiers, misplaced modifiers, split infinitives)
-- TSIS Ch. 5 King draft paragraph
+- Handing back the remaining TSIS Ch. 1-3 quizzes
+- Precision Wednesday: Antithesis
+- TSIS Ch. 6 — Chapter Notes, Group Activity, Examining King's Response
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Tuesday, Oct 13
+- Grammar: Avoiding Awkward Constructions (dangling modifiers, misplaced modifiers, split infinitives)
+- Handed back the TSIS Ch. 1-3 quiz and Grammar Quiz #3 (some students still finishing the TSIS quiz — handback continues Wednesday)
+- TSIS Ch. 5 King draft paragraph
 
 ### Monday, Oct 12
 - Book of Alchemy journal: "Listening" by Esther Perel, p. 133

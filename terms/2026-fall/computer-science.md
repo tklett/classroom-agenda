@@ -8,7 +8,7 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 13** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - CertMaster work time
 
@@ -16,6 +16,10 @@ title: Computer Science — Agenda
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Tuesday, Oct 13
+- Bellringer: "Spot the Social Engineer" — groups sort 8 message/encounter cards into Legit vs. Social Engineering, mark uncertain ones with "?", and name a safe next action for each
+- CertMaster work time
 
 ### Monday, Oct 12
 - Journal:

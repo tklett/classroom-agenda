@@ -8,15 +8,20 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 13** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Finish watching the Stratford Festival production of *Othello*, Act 2
-- Close Read 2: "What Is Reputation Worth?" (Act 2, Scene 3)
+- Finish watching the Stratford Festival production of *Othello*, Act 3
+- Act 3 Close Read packet
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Tuesday, Oct 13
+- Finished watching the Stratford Festival production of *Othello*, Act 2
+- Close Read 2: "What Is Reputation Worth?" (Act 2, Scene 3)
+- Started watching Act 3
 
 ### Monday, Oct 12
 - Vocabulary review (Google Classroom)
