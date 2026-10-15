@@ -8,15 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Article of the Week: CommonLit targeted lesson on "What Happens When Machines Learn to Write Poetry"
 - Continuing the Infrastructure Impact Brief Builder (Google Classroom)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Wednesday, Oct 14
+- Article of the Week: CommonLit targeted lesson on "What Happens When Machines Learn to Write Poetry"
 
 ### Tuesday, Oct 13
 - Finished the AI Infrastructure Impact Investigation

@@ -8,16 +8,21 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Handing back the remaining TSIS Ch. 1-3 quizzes
-- Precision Wednesday: Antithesis
-- TSIS Ch. 6 — Chapter Notes, Group Activity, Examining King's Response
+- Grammar Worksheet
+- Finishing TSIS Ch. 6 Group Activity
+- TSIS Ch. 6 packet (partner work)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Wednesday, Oct 14
+- Handed back the remaining TSIS Ch. 1-3 quizzes
+- Precision Wednesday: Antithesis
+- Started TSIS Ch. 6 — Chapter Notes, Group Activity
 
 ### Tuesday, Oct 13
 - Grammar: Avoiding Awkward Constructions (dangling modifiers, misplaced modifiers, split infinitives)

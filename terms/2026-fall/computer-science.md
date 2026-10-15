@@ -8,14 +8,19 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
+- Gimkit review game over Modules 1-2
 - CertMaster work time
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Wednesday, Oct 14
+- Practice Quiz over Module 1 (CertMaster platform)
+- CertMaster work time
 
 ### Tuesday, Oct 13
 - Bellringer: "Spot the Social Engineer" — groups sort 8 message/encounter cards into Legit vs. Social Engineering, mark uncertain ones with "?", and name a safe next action for each

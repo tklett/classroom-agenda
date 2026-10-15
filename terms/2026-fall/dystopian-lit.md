@@ -8,14 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 14** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal Collage build — arranging and annotating your four printed evidence pieces from the Journal Hunt, then writing one claim about *The Hunger Games*
+- Finishing the Journal Collage build
+- Theory Toolbox reading: "Media Culture"
+- Keep/Ask/Notice journal on *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Wednesday, Oct 14
+- Journal Collage build — arranging and annotating your four printed evidence pieces from the Journal Hunt, then writing one claim about *The Hunger Games* (continues Thursday)
 
 ### Tuesday, Oct 13
 - Lit Term Tuesday, Term #7: Archetypes
