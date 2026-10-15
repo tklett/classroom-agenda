@@ -8,16 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar Worksheet
-- Finishing TSIS Ch. 6 Group Activity
-- TSIS Ch. 6 packet (partner work)
+- Reviewing the Grammar Worksheet
+- Setting up Typewriter.education
+- Outlining the King essay (to be typed in class Monday)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Thursday, Oct 15
+- Finished TSIS Ch. 6 Group Activity, then partnered within groups for the Partner Challenge
+- Grammar Worksheet handed out (review moves to Friday)
 
 ### Wednesday, Oct 14
 - Handed back the remaining TSIS Ch. 1-3 quizzes

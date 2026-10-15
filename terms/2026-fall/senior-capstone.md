@@ -8,15 +8,19 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Close Read 3: "Suspicion and Proof" (Act 3, Scene 3)
-- Week 8 Grammar: integrating quotations into your own sentences
+- Grammar Quiz (Weeks 1-7)
+- Independent reading
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Thursday, Oct 15
+- Close Read 3: "Suspicion and Proof" (Act 3, Scene 3)
+- Week 8 Grammar: integrating quotations into your own sentences
 
 ### Wednesday, Oct 14
 - Finished watching the Stratford Festival production of *Othello*, Act 3, and continued into Act 4

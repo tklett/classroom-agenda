@@ -8,15 +8,19 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 15** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Gimkit review game over Modules 1-2
+- Modules 1-2 Quiz (CompTIA platform)
 - CertMaster work time
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Thursday, Oct 15
+- Gimkit review game over Modules 1-2
+- CertMaster work time
 
 ### Wednesday, Oct 14
 - Practice Quiz over Module 1 (CertMaster platform)
