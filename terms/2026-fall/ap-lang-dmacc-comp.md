@@ -12,7 +12,7 @@ title: AP Lang / DMACC Comp — Agenda
 
 - Reviewing the Grammar Worksheet
 - Setting up Typewriter.education
-- Outlining the King essay (to be typed in class Monday)
+- Planning the King essay (to be typed in class Tuesday)
 
 ---
 
