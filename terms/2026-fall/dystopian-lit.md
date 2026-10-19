@@ -8,17 +8,22 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal:
-  > What happens when your survival depends on how people see you? Identify one moment where a character performs an identity for an audience: (1) Moment — what is the character performing, and for whom? (2) Cost — what does maintaining that performance cost the character, even when it works? (3) Strategy — is the performance a trap, a tool, or both?
-- Capture Keep/Ask/Notice in your notebook
+- Journal Collage wrap-up quickwrite — look at the journal collages your classmates created, then write up:
+  > Find one that you feel provides some real insight into The Hunger Games. What's that insight? Why does it stand out to you? How does it help you understand the novel? How does it connect to the central claim in your collage? Now find something that doesn't quite land. Explain why it doesn't quite work? What's the missing link the collage needs to make that point stronger?
 - Read *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Friday, Oct 16
+- Journal:
+  > What happens when your survival depends on how people see you? Identify one moment where a character performs an identity for an audience: (1) Moment — what is the character performing, and for whom? (2) Cost — what does maintaining that performance cost the character, even when it works? (3) Strategy — is the performance a trap, a tool, or both?
+- Captured Keep/Ask/Notice in your notebook
+- Read *The Hunger Games*
 
 ### Thursday, Oct 15
 - Finished the Journal Collage build

@@ -8,16 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Reviewing the Grammar Worksheet
-- Setting up Typewriter.education
-- Planning the King essay (to be typed in class Tuesday)
+- Book of Alchemy journal: "How Are You Really?" by Nora McInerny, pp. 23-24
+- Finishing the King essay outline
+- Journal Check #1: auditing your Book of Alchemy journals
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Friday, Oct 16
+- Setting up Typewriter.education
+- Planning the King essay (to be typed in class Tuesday)
 
 ### Thursday, Oct 15
 - Finished TSIS Ch. 6 Group Activity, then partnered within groups for the Partner Challenge

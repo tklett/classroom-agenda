@@ -8,14 +8,21 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Building the Unit 2 portfolio
+- Unit 3 begins
+- Journal: "Time to Vent (professionally)"
+  > Think of something at school that genuinely bugs you (not a person, a system or a decision). For five minutes, write honestly about why it bothers you. Don't worry about sounding reasonable or nice yet; that's the next step. Keep it something you'd be fine with a classmate reading over your shoulder.
+- Audience Whiplash
+- Rant Translator
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
+
+### Friday, Oct 16
+- Building the Unit 2 portfolio
 
 ### Thursday, Oct 15
 - Continued the Infrastructure Impact Brief Builder (Google Classroom)
