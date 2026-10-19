@@ -8,15 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Journal Collage wrap-up quickwrite — look at the journal collages your classmates created, then write up:
-  > Find one that you feel provides some real insight into The Hunger Games. What's that insight? Why does it stand out to you? How does it help you understand the novel? How does it connect to the central claim in your collage? Now find something that doesn't quite land. Explain why it doesn't quite work? What's the missing link the collage needs to make that point stronger?
-- Read *The Hunger Games*
+**Tuesday, Oct 20** — *Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Monday, Oct 19
+- Journal Collage wrap-up quickwrite — a gallery walk of classmates' collages (each labeled with a sticky note showing the reader's current page, so you can judge spoiler risk), then write up:
+  > Find one that you feel provides some real insight into The Hunger Games. What's that insight? Why does it stand out to you? How does it help you understand the novel? How does it connect to the central claim in your collage? Now find something that doesn't quite land. Explain why it doesn't quite work? What's the missing link the collage needs to make that point stronger?
+- Read *The Hunger Games*
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
 
 ### Friday, Oct 16

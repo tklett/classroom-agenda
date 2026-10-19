@@ -8,13 +8,19 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- CertMaster work time
+**Tuesday, Oct 20** — *Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Monday, Oct 19
+- CertMaster work time
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
 
 ### Friday, Oct 16

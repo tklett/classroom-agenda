@@ -8,15 +8,38 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Book of Alchemy journal: "How Are You Really?" by Nora McInerny, pp. 23-24
-- Finishing the King essay outline
-- Journal Check #1: auditing your Book of Alchemy journals
+- Writing the King essay (Typewriter.education)
+- Journal Check: turn in your notebook and audit sheet
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Monday, Oct 19
+- Book of Alchemy journal: "How Are You Really?" by Nora McInerny, pp. 23-24
+- Finished the King essay outline
+- Journal Check #1: audited your Book of Alchemy journals
+- Grammar Worksheet review (last 10 minutes)
+
+Questions that came up on Typewriter.education:
+
+> **Does each packet become a body paragraph?** No. The packets are
+> notes. Your body paragraphs come from what your Chapter 4, 5, and 6
+> paragraphs say about King's response. Some carry over, some combine,
+> and some won't be used.
+
+> **How do you naysay when King is right?** You aren't arguing against
+> King. You're testing your own interpretation of him. Ask: Does my
+> claim overlook another passage? Am I overstating the evidence? Does
+> my explanation really account for how this works on these readers?
+> Could that move be doing something else?
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
 
 ### Friday, Oct 16

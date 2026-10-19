@@ -8,17 +8,23 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Unit 3 begins
-- Journal: "Time to Vent (professionally)"
-  > Think of something at school that genuinely bugs you (not a person, a system or a decision). For five minutes, write honestly about why it bothers you. Don't worry about sounding reasonable or nice yet; that's the next step. Keep it something you'd be fine with a classmate reading over your shoulder.
-- Audience Whiplash
-- Rant Translator
+**Tuesday, Oct 20** — *Plan not yet posted. Check back closer to class.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Monday, Oct 19
+- Unit 3 begins
+- Journal: "Time to Vent (professionally)"
+  > Think of something at school that genuinely bugs you (not a person, a system or a decision). For five minutes, write honestly about why it bothers you. Don't worry about sounding reasonable or nice yet; that's the next step. Keep it something you'd be fine with a classmate reading over your shoulder.
+- Audience Whiplash
+- Rant Translator — compared a human-rewritten rant letter to an AI-rewritten one, then filled out a form sharing observations, reviewed as a class
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
 
 ### Friday, Oct 16

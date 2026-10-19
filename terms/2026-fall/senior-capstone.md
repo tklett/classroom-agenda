@@ -8,14 +8,22 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Vocabulary
-- Continuing to watch the Stratford Festival production of *Othello*, Act 4
+- Continuing to watch *Othello*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Monday, Oct 19
+- Vocabulary
+- Finished watching the Stratford Festival production of *Othello*, Act 4
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 8 (Oct 12–16)</strong></summary>
 
 ### Friday, Oct 16
