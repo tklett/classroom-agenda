@@ -10,7 +10,7 @@ title: Senior Capstone — Agenda
 ## Next Class
 **Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Continuing to watch *Othello*
+- Finishing *Othello*
 
 ---
 

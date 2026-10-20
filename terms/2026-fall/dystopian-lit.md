@@ -8,7 +8,12 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 20** — *Plan not yet posted. Check back closer to class.*
+**Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Lit Term Tuesday, Term #8: Diction, Dialect & Dialogue
+- Read *The Hunger Games*
+- Closing Think About It:
+  > Pick one character from The Hunger Games or your independent novel. (1) Is their diction formal or colloquial? Abstract or concrete? (2) Quote one line that shows it. (3) What does their way of talking tell us about who they are?
 
 ---
 
