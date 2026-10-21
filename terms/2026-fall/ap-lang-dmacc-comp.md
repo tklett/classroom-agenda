@@ -8,15 +8,18 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Writing the King essay (Typewriter.education)
-- Journal Check: turn in your notebook and audit sheet
+- Expert groups — reviewing printed drafts from Typewriter.education
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Tuesday, Oct 20
+- Writing the King essay (Typewriter.education)
+- Journal Check: turned in notebook and audit sheet
 
 ### Monday, Oct 19
 - Book of Alchemy journal: "How Are You Really?" by Nora McInerny, pp. 23-24

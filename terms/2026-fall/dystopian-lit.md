@@ -8,17 +8,21 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Lit Term Tuesday, Term #8: Diction, Dialect & Dialogue
+- Article of the Week: Bernays on CommonLit — answer the CL questions
 - Read *The Hunger Games*
-- Closing Think About It:
-  > Pick one character from The Hunger Games or your independent novel. (1) Is their diction formal or colloquial? Abstract or concrete? (2) Quote one line that shows it. (3) What does their way of talking tell us about who they are?
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Tuesday, Oct 20
+- Lit Term Tuesday, Term #8: Diction, Dialect & Dialogue
+- Read *The Hunger Games*
+- Closing Think About It (notecard activity, students found their example while reading, then a Think-Pair-Share):
+  > Pick one character from The Hunger Games. (1) Is their diction formal or colloquial? Abstract or concrete? (2) Quote one line that shows it. (3) What does their way of talking tell us about who they are?
 
 ### Monday, Oct 19
 - Journal Collage wrap-up quickwrite — a gallery walk of classmates' collages (each labeled with a sticky note showing the reader's current page, so you can judge spoiler risk), then write up:
