@@ -8,15 +8,17 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Close Read 4: "Seeing Isn't Knowing" (Act IV, Scene 1) — bring back the packet handed out Tuesday
-- SchoolAI Othello chatbot investigation
+- Othello Evidence Audit
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Wednesday, Oct 21
+- Close Read 4: "Seeing Isn't Knowing" (Act IV, Scene 1) — guided SchoolAI chat, then copied part of the conversation into your journal
 
 ### Tuesday, Oct 20
 - Finished *Othello*

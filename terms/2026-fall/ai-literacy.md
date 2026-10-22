@@ -8,14 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- CommonLit: "They're Made Out of Meat" (Terry Bisson) — reading, assessment, and short-response questions, all on CommonLit
+- Resume/cover letter — continuing, tailored to a real job posting
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Wednesday, Oct 21
+- CommonLit: "They're Made Out of Meat" (Terry Bisson) — reading, assessment, and short-response questions, all on CommonLit
 
 ### Tuesday, Oct 20
 - Resume/portfolio mini-lesson (SchooLinks blog): why start now, what to include, documenting skills not just activities, asking for recommendations early

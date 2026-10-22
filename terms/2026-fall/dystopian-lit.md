@@ -8,15 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Article of the Week: Bernays on CommonLit — answer the CL questions
+- Theory Toolbox: Media Culture 2.0
 - Read *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Wednesday, Oct 21
+- Article of the Week: Bernays on CommonLit — answered the CL questions
+- Read *The Hunger Games*
 
 ### Tuesday, Oct 20
 - Lit Term Tuesday, Term #8: Diction, Dialect & Dialogue

@@ -8,14 +8,17 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Networking Lab, Day 1: Collect, Move, and Set Up Your Station — collect your station's equipment, move it to the conference room, connect the PC/monitor/keyboard/mouse (no network cable yet), power on and test, fill in your check-in sheet, then shut down
+- Networking Lab, Day 2
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Wednesday, Oct 21
+- Networking Lab, Day 1: Collect, Move, and Set Up Your Station — collected station equipment, moved it to the conference room, connected the PC/monitor/keyboard/mouse (no network cable yet), powered on and tested, filled in a check-in sheet, then shut down
 
 ### Tuesday, Oct 20
 - CertMaster work time

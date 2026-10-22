@@ -8,14 +8,18 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 21** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Expert groups — reviewing printed drafts from Typewriter.education
+- King Essay Revision Plan (Typewriter.education)
+- Grammar review (Gimkit, self-paced)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Wednesday, Oct 21
+- Expert groups — reviewed every draft for one focus, rotated papers group to group, then a group and individual reflection
 
 ### Tuesday, Oct 20
 - Writing the King essay (Typewriter.education)
