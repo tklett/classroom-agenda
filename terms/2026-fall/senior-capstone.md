@@ -8,14 +8,17 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Othello Evidence Audit
+- Essay revision day: self-check, then partner review on your personal essay draft
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Thursday, Oct 22
+- Evidence Audit — re-answered an early-unit question cold, compared it to your saved answer, then logged a quotation, line number, speaker's goal, and your own annotation from each Close Read so far, then starred the strongest for paper planning
 
 ### Wednesday, Oct 21
 - Close Read 4: "Seeing Isn't Knowing" (Act IV, Scene 1) — guided SchoolAI chat, then copied part of the conversation into your journal

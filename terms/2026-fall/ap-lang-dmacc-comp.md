@@ -8,15 +8,19 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- King Essay Revision Plan (Typewriter.education)
-- Grammar review (Gimkit, self-paced)
+- Grammar Quiz #4
+- Precision Wednesday review — choice of an AI chatbot activity or a non-AI worksheet, both on invoked vs. actual audience plus a persona/ethos/logos/pathos/kairos review
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Thursday, Oct 22
+- King Essay Revision Plan (Typewriter.education) — revise using Expert Groups feedback: pick 2 fixes, fix every quotation, label sentences Clergy/King/Analysis, proofread. Typewriter.education ran into technical issues today, so drafts are currently split across printed, handwritten, and platform versions
+- Grammar review (Gimkit, self-paced)
 
 ### Wednesday, Oct 21
 - Expert groups — reviewed every draft for one focus, rotated papers group to group, then a group and individual reflection

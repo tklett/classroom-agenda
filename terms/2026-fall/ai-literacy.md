@@ -8,14 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 22** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Resume/cover letter — continuing, tailored to a real job posting
+- Cover Letter AI Chatbot Workshop — guided AI-chatbot coaching through an opening, body, and closing paragraph, continuing from yesterday's resume work
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Thursday, Oct 22
+- Resume AI Chatbot Workshop — tailored to a real job posting
 
 ### Wednesday, Oct 21
 - CommonLit: "They're Made Out of Meat" (Terry Bisson) — reading, assessment, and short-response questions, all on CommonLit
