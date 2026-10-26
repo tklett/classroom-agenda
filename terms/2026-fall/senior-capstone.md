@@ -8,14 +8,18 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Essay revision day: self-check, then partner review on your personal essay draft
+- Vocabulary
+- Start *Gaslight* (1944) — a comparison film for the Othello paper
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Friday, Oct 23
+- Essay revision day: self-check, then partner review on your personal essay draft
 
 ### Thursday, Oct 22
 - Evidence Audit — re-answered an early-unit question cold, compared it to your saved answer, then logged a quotation, line number, speaker's goal, and your own annotation from each Close Read so far, then starred the strongest for paper planning

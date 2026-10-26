@@ -8,14 +8,18 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Cover Letter AI Chatbot Workshop — guided AI-chatbot coaching through an opening, body, and closing paragraph, continuing from yesterday's resume work
+- Journal
+- Effective Business Communication — find 2-3 sources, synthesize them with Gemini Notebook, verify the summary, then write your own take
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Friday, Oct 23
+- Cover Letter AI Chatbot Workshop — guided AI-chatbot coaching through an opening, body, and closing paragraph, continuing from yesterday's resume work
 
 ### Thursday, Oct 22
 - Resume AI Chatbot Workshop — tailored to a real job posting

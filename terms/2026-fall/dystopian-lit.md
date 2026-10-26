@@ -8,14 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Bernays Propaganda Project — create or find a piece of Panem propaganda, then write a paragraph naming its audience, technique, and evidence
+- Paper preview for the Society Paper — finish *The Hunger Games* by Monday, Nov. 2
+- Mind-mapping activity: connect ideas from your reading notes so far
+- Continue reading *The Hunger Games*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Friday, Oct 23
+- Bernays Propaganda Project — create or find a piece of Panem propaganda, then write a paragraph naming its audience, technique, and evidence
 
 ### Thursday, Oct 22
 - Theory Toolbox: Media Culture 2.0

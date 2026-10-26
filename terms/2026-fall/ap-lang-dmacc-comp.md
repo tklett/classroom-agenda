@@ -8,15 +8,19 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar Quiz #4
-- Precision Wednesday review — choice of an AI chatbot activity or a non-AI worksheet, both on invoked vs. actual audience plus a persona/ethos/logos/pathos/kairos review
+- Book of Alchemy journal: "Radical Receptivity," p. 25
+- King Essay Self-Review (revision rubric)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Friday, Oct 23
+- Grammar Quiz #4
+- Precision Wednesday review — choice of an AI chatbot activity or a non-AI worksheet, both on invoked vs. actual audience plus a persona/ethos/logos/pathos/kairos review
 
 ### Thursday, Oct 22
 - King Essay Revision Plan (Typewriter.education) — revise using Expert Groups feedback: pick 2 fixes, fix every quotation, label sentences Clergy/King/Analysis, proofread. Typewriter.education ran into technical issues today, so drafts are currently split across printed, handwritten, and platform versions

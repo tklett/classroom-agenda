@@ -8,7 +8,7 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Oct 23** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - CertMaster work time
 
@@ -16,6 +16,9 @@ title: Computer Science — Agenda
 
 <details markdown="1" open>
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
+
+### Friday, Oct 23
+- CertMaster work time
 
 ### Thursday, Oct 22
 - Networking Lab, Day 2: created a standard-user account, plugged in the Ethernet patch cable and checked the link status, then an extension on basic Linux commands
