@@ -8,13 +8,23 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
 - CertMaster work time
+- Gimkit review for the Module 3 quiz
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Monday, Oct 26
+- Journal: a real-world security story (weak certificate authority keys) connecting bits and entropy to a Pooh-meme bellringer
+- CertMaster work time
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
 
 ### Friday, Oct 23

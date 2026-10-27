@@ -8,14 +8,23 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Journal
-- Effective Business Communication — find 2-3 sources, synthesize them with Gemini Notebook, verify the summary, then write your own take
+- Finish yesterday's business-communication submission if needed
+- Team formation — reflect on business/industry interests and a real business that communicates well
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Monday, Oct 26
+- Journal
+- Effective Business Communication — find 2-3 sources, synthesize them with Gemini Notebook, verify the summary, then write your own take
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
 
 ### Friday, Oct 23

@@ -8,14 +8,22 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Oct 26** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Vocabulary
 - Start *Gaslight* (1944) — a comparison film for the Othello paper
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Monday, Oct 26
+- Vocabulary
+- *Gaslight* packet handed out, but the film itself didn't start today — more time went to personal essay revisions instead
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 9 (Oct 19–23)</strong></summary>
 
 ### Friday, Oct 23
