@@ -8,15 +8,19 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Finish yesterday's business-communication submission if needed
-- Team formation — reflect on business/industry interests and a real business that communicates well
+- CommonLit: "Experts Debate: Will Computers Edge People Out?"
+- Groups: Internal Communication Policy — build a team memo on how your fictitious business communicates
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Tuesday, Oct 27
+- Finished yesterday's business-communication submission
+- Team formation — grouped by shared communication values, built a fictitious business identity (name, industry, customer, values, and a "watch area" to revisit later)
 
 ### Monday, Oct 26
 - Journal

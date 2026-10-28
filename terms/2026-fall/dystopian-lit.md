@@ -8,15 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Theory Toolbox: Ideology excerpt — applying it to Panem
-- Read *The Hunger Games*
+- MLA Workshop — integrating and citing quotations, using the Ideology excerpt
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Tuesday, Oct 27
+- Theory Toolbox: Ideology excerpt — applying it to Panem
+- Read *The Hunger Games*
+- Also watched a video interpretation connecting ideology to pop culture
 
 ### Monday, Oct 26
 - Paper preview for the Society Paper — finish *The Hunger Games* by Monday, Nov. 2

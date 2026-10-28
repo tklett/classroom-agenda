@@ -8,14 +8,17 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Oct 27** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- King final assembly
+- King Essay: Your Best Evidence — a review of Monday's highlighted passages and rubric levels, then quoting your best evidence per row
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Tuesday, Oct 27
+- King final assembly — typing/revising essays, no grammar today
 
 ### Monday, Oct 26
 - Book of Alchemy journal: "Radical Receptivity," p. 25
