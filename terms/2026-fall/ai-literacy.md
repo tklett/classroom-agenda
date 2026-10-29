@@ -8,15 +8,19 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- CommonLit: "Experts Debate: Will Computers Edge People Out?"
-- Groups: Internal Communication Policy — build a team memo on how your fictitious business communicates
+- Finish the Internal Communication Policy memo
+- Start the Press Release
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Wednesday, Oct 28
+- CommonLit: "Experts Debate: Will Computers Edge People Out?" — also listened to the audio version
+- Groups: Internal Communication Policy — team memo on channels, response time, confidentiality, social media conduct, handling mistakes, and AI policy — didn't finish, continues next class
 
 ### Tuesday, Oct 27
 - Finished yesterday's business-communication submission

@@ -8,14 +8,17 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- MLA Workshop — integrating and citing quotations, using the Ideology excerpt
+- Question development — toward the Society Paper and Socratic Seminar
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Wednesday, Oct 28
+- MLA Workshop — integrating and citing quotations, using the Ideology excerpt
 
 ### Tuesday, Oct 27
 - Theory Toolbox: Ideology excerpt — applying it to Panem

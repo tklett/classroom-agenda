@@ -8,15 +8,18 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Oct 28** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
 
-- Grammar
 - Continue *Gaslight*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Wednesday, Oct 28
+- Grammar: restrictive vs. nonrestrictive clauses (how commas change meaning)
+- Continued *Gaslight*
 
 ### Tuesday, Oct 27
 - Started *Gaslight* (1944) — reached the 31:49 mark
