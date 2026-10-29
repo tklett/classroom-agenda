@@ -8,14 +8,15 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Question development — toward the Society Paper and Socratic Seminar
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Thursday, Oct 29
+- Question Development Workshop — revisited mind-map questions, watched the reaping/family-farewell sequence, then worked in groups to draft and test seminar questions
 
 ### Wednesday, Oct 28
 - MLA Workshop — integrating and citing quotations, using the Ideology excerpt

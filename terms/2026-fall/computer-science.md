@@ -8,15 +8,17 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Module 3 Quiz
-- CertMaster work time
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Thursday, Oct 29
+- Module 3 Quiz
+- CertMaster work time
+- Private-mode reteach: who can still see you in private/incognito browsing
 
 ### Wednesday, Oct 28
 - CertMaster work time

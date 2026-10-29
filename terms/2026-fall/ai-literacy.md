@@ -8,15 +8,16 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Oct 29** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish the Internal Communication Policy memo
-- Start the Press Release
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
+
+### Thursday, Oct 29
+- Finished the Internal Communication Policy memo
+- Started the Press Release
 
 ### Wednesday, Oct 28
 - CommonLit: "Experts Debate: Will Computers Edge People Out?" — also listened to the audio version
