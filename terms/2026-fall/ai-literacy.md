@@ -8,16 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Oct 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Continue the Press Release
+- Midterm written reflection (Typewriter.education)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
-
-### Friday, Oct 30
-- Continued the Press Release
-- Midterm written reflection (Typewriter.education)
 
 ### Thursday, Oct 29
 - Finished the Internal Communication Policy memo

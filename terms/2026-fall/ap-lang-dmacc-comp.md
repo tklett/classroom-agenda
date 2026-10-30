@@ -8,16 +8,15 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Oct 30** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Ethics Bowl: work with a partner on a case summary slide, share out to the class
+- Exit ticket (Typewriter.education)
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
-
-### Friday, Oct 30
-- Ethics Bowl: worked with a partner on a case summary slide, shared out to the class
-- Exit ticket (Typewriter.education)
 
 ### Thursday, Oct 29
 - Grammar Unit 5: Parallel Structure — series, pairs (and/but/than), correlative pairs (not only...but also, both...and), and the "to" rule
