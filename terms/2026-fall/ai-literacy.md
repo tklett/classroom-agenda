@@ -15,6 +15,10 @@ title: AI Literacy — Agenda
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
 
+### Friday, Oct 30
+- Continued the Press Release
+- Midterm written reflection (Typewriter.education)
+
 ### Thursday, Oct 29
 - Finished the Internal Communication Policy memo
 - Started the Press Release

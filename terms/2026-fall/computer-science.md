@@ -15,6 +15,9 @@ title: Computer Science — Agenda
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
 
+### Friday, Oct 30
+- CertMaster work time
+
 ### Thursday, Oct 29
 - Module 3 Quiz
 - CertMaster work time

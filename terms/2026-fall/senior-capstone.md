@@ -15,6 +15,9 @@ title: Senior Capstone — Agenda
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
 
+### Friday, Oct 30
+- Finished *Gaslight*
+
 ### Thursday, Oct 29
 - 10-minute timed writing (Typewriter.education) — write from memory about *Othello*, plus any connection noticed to *Gaslight*, with a grammar challenge (two sentences using a dependent clause for cause/contrast/time)
 - Continued *Gaslight*

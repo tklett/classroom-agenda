@@ -15,6 +15,10 @@ title: AP Lang / DMACC Comp — Agenda
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
 
+### Friday, Oct 30
+- Ethics Bowl: worked with a partner on a case summary slide, shared out to the class
+- Exit ticket (Typewriter.education)
+
 ### Thursday, Oct 29
 - Grammar Unit 5: Parallel Structure — series, pairs (and/but/than), correlative pairs (not only...but also, both...and), and the "to" rule
 - Starting Ethics Bowl: journal ("What is Ethics?"), watched "Ethics in a Nutshell Ch. 1," a video-reflection prompt, then case files distributed

@@ -15,6 +15,9 @@ title: Dystopian Literature — Agenda
 <details markdown="1" open>
 <summary><strong>Week 10 (Oct 26–30)</strong></summary>
 
+### Friday, Oct 30
+- Question selection and discussion prep — finalized seminar questions, moderator-group prep for the upcoming Socratic Seminar
+
 ### Thursday, Oct 29
 - Question Development Workshop — revisited mind-map questions, watched the reaping/family-farewell sequence, then worked in groups to draft and test seminar questions
 
