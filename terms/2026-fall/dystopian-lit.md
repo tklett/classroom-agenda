@@ -8,7 +8,10 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Socratic Seminar discussion panels
+- Exit ticket: extend, challenge, or qualify an idea heard during a panel, with a specific moment from the novel
 
 ---
 

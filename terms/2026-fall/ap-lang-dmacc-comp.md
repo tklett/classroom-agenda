@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Ethics Bowl Argument Building Workshop — Case 13, "A Grade By Any Other Name": recap the case, discuss and write the real disagreement, form a group thesis, support it with reasons, trade notebooks for a partner objection, reply using a "although it's true that ___, it doesn't follow that ___" move
+- Book of Alchemy journal moves to Wednesday this week
 
 ---
 

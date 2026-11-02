@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Position Paper: business teams argue for or against a city tax incentive, addressed to the city council
 
 ---
 

@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 2** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Vocabulary review (Weeks 5-9) — quiz later this week
+- The Manipulation Playbook, Day 1 — groups pick a manipulation tactic and trace it through *Othello* and *Gaslight*, plus a real-world example
 
 ---
 
