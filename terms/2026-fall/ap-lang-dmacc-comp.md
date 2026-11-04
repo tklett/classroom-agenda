@@ -8,7 +8,9 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 4** — *Plan, not yet confirmed. Check back after class for what actually happened.* (No school Nov 3 — state volleyball.)
+
+- Ethical Theory Jigsaw — groups each take one of four theories (Kantianism, Utilitarianism, Care Ethics, Virtue Ethics), read their assigned pages, and fill in a shared tab (core idea, how to use it, the book's example, a difficult question, their own example)
 
 ---
 
