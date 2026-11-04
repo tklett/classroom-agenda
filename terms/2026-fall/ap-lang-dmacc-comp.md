@@ -8,14 +8,15 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 4** — *Plan, not yet confirmed. Check back after class for what actually happened.* (No school Nov 3 — state volleyball.)
-
-- Ethical Theory Jigsaw — groups each take one of four theories (Kantianism, Utilitarianism, Care Ethics, Virtue Ethics), read their assigned pages, and fill in a shared tab (core idea, how to use it, the book's example, a difficult question, their own example)
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Wednesday, Nov 4
+- Ethical Theory Jigsaw — groups each took one of four theories (Kantianism, Utilitarianism, Care Ethics, Virtue Ethics), read their assigned pages, and filled in a shared tab (core idea, how to use it, the book's example, a difficult question, their own example)
 
 ### Monday, Nov 2
 - Ethics Bowl Argument Building Workshop — Case 13, "A Grade By Any Other Name": got into letter groups, recapped the case, discussed and wrote the real disagreement, formed a group thesis, supported it with reasons, swapped notebooks for a partner objection, replied using an "although it's true that ___, it doesn't follow that ___" move

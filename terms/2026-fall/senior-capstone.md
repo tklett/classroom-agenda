@@ -8,15 +8,16 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 4** — *Plan, not yet confirmed. Check back after class for what actually happened.* (No school Nov 3 — state volleyball.)
-
-- Finish Manipulation Playbook: Research
-- Start Manipulation Playbook: Artifacts — turn your research into a PSA poster, meme/comic, or short script
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Wednesday, Nov 4
+- Finished Manipulation Playbook: Research
+- Started Manipulation Playbook: Artifacts — turning research into a PSA poster, meme/comic, or short script
 
 ### Monday, Nov 2
 - Vocabulary review (Weeks 5-9) — quiz later this week

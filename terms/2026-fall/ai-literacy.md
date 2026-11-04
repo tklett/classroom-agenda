@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 4** — *Plan, not yet confirmed. Check back after class for what actually happened.* (No school Nov 3 — state volleyball.)
-
-- Position Statement Reverse Outlining
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Wednesday, Nov 4
+- Reverse Outline — each team tagged another team's Position Paper sentence-by-sentence (Claim/Support/Detail), then built a sentence outline from the tags
 
 ### Monday, Nov 2
 - Position Paper: business teams argued for or against a city tax incentive, addressed to the city council
