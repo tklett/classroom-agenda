@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Letter to the Editor: write as an individual community-member persona (not your team's business) taking a stance on the Meridian Marketplace tax incentive
 
 ---
 
