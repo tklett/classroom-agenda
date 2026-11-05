@@ -8,15 +8,15 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Back in jigsaw groups from Wednesday
-- Present your ethical theory notes to the class
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Thursday, Nov 5
+- Back in jigsaw groups from Wednesday — decided whose notes get projected for the class, then presented ethical theory notes
 
 ### Wednesday, Nov 4
 - Ethical Theory Jigsaw — groups each took one of four theories (Kantianism, Utilitarianism, Care Ethics, Virtue Ethics), read their assigned pages, and filled in a shared tab (core idea, how to use it, the book's example, a difficult question, their own example)

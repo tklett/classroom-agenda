@@ -8,14 +8,16 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish Manipulation Playbook: Artifacts
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Thursday, Nov 5
+- Vocab review (Weeks 5-9)
+- Finished Manipulation Playbook: Artifacts
 
 ### Wednesday, Nov 4
 - Finished Manipulation Playbook: Research

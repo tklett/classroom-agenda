@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Letter to the Editor: write as an individual community-member persona (not your team's business) taking a stance on the Meridian Marketplace tax incentive
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Thursday, Nov 5
+- Letter to the Editor: wrote as an individual community-member persona (not your team's business) taking a stance on the Meridian Marketplace tax incentive
 
 ### Wednesday, Nov 4
 - Reverse Outline — each team tagged another team's Position Paper sentence-by-sentence (Claim/Support/Detail), then built a sentence outline from the tags
