@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 5** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Back in jigsaw groups from Wednesday
+- Present your ethical theory notes to the class
 
 ---
 
