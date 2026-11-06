@@ -8,15 +8,16 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Letter review
-- Work on Google/Cisco AI certificates
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Friday, Nov 6
+- Letter Review: three passes over a partner's letter (highlight claims, circle support, underline details), then revise any claim missing support
+- Started AI credential certificate work (Google Gemini Certification for Students, Cisco Introduction to Modern AI — due 12/18)
 
 ### Thursday, Nov 5
 - Letter to the Editor: wrote as an individual community-member persona (not your team's business) taking a stance on the Meridian Marketplace tax incentive

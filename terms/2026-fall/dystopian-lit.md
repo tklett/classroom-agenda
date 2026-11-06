@@ -8,14 +8,15 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish paper drafting for the Society Paper
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Friday, Nov 6
+- Finished paper drafting for the Society Paper
 
 ### Thursday, Nov 5
 - Paper Drafting for the Society Paper

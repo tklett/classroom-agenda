@@ -8,15 +8,16 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Type up your Case 13 argument
-- DMACC login troubleshooting
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Friday, Nov 6
+- Typed up your Case 13 argument
+- DMACC login troubleshooting
 
 ### Thursday, Nov 5
 - Back in jigsaw groups from Wednesday — decided whose notes get projected for the class, then presented ethical theory notes

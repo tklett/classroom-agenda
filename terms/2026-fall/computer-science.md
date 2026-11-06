@@ -8,14 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Elementary tech support — helping 3rd graders with Google Slides
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
+
+### Friday, Nov 6
+- Elementary tech support — helped 3rd graders with Google Slides
 
 ### Thursday, Nov 5
 - CertMaster work time
