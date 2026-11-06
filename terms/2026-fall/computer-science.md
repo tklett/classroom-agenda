@@ -8,7 +8,9 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Elementary tech support — helping 3rd graders with Google Slides
 
 ---
 

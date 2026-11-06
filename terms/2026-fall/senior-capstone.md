@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Vocab Quiz (Weeks 5-9, Typewriter.education)
+- Finish Manipulation Playbook
 
 ---
 

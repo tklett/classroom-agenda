@@ -8,7 +8,9 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Nov 6** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Finish paper drafting for the Society Paper
 
 ---
 
