@@ -8,7 +8,9 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Start final paper formatting (Society Paper) — Google Doc in Google Classroom
 
 ---
 

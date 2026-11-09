@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Start Unit 3 Portfolio
 
 ---
 

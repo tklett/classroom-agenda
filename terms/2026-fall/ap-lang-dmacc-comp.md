@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Bellringer: "How to Identify an Argument" — premises, conclusions, and implicit premises, applied to your Case 13 argument
+- Ethics Bowl: case selection (ranking preferences)
 
 ---
 

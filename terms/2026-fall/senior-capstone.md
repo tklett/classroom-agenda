@@ -8,7 +8,9 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Final Writing Preparation: notes using your packets, viewing notes, playbook, and gallery-walk notes — turned in at end of class
 
 ---
 
