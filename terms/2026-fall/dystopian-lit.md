@@ -8,13 +8,19 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Nov 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Expert groups
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Monday, Nov 9
+- Claim review, then draft revision on the Society Paper
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
 
 ### Friday, Nov 6

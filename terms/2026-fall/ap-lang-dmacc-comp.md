@@ -8,14 +8,20 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Monday, Nov 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Read Ch. 6: All-Things-Considered
-- Revise your Case 13 argument
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Monday, Nov 9
+- Read Ch. 6: All-Things-Considered
+- Revised your Case 13 argument, then a revision check in letter groups
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 11 (Nov 2–6)</strong></summary>
 
 ### Friday, Nov 6
