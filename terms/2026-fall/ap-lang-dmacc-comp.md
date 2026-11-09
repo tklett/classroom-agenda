@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Read Ch. 6: All-Things-Considered
+- Revise your Case 13 argument
 
 ---
 

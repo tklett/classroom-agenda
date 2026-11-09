@@ -8,7 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Journal
+- "AI slop" article and discussion
 
 ---
 

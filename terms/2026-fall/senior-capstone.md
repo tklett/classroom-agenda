@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 9** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- New vocab (Week 10)
+- Gallery walk: Manipulation Playbook
 
 ---
 
