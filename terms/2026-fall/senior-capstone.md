@@ -8,14 +8,16 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Final Writing Preparation: notes using your packets, viewing notes, playbook, and gallery-walk notes — turned in at end of class
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Tuesday, Nov 10
+- Final Writing Preparation: notes using your packets, viewing notes, playbook, and gallery-walk notes — turned in at end of class
+  > How does one person shape what another person believes is true?
 
 ### Monday, Nov 9
 - New vocab (Week 10)

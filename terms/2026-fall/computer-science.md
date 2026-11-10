@@ -8,15 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Module 4 review (ahead of Thursday's quiz)
-- CertMaster work time
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Tuesday, Nov 10
+- Module 4 review (Wayground), ahead of Thursday's quiz
 
 ### Monday, Nov 9
 - CertMaster work time

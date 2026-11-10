@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 10** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Start Unit 3 Portfolio
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Tuesday, Nov 10
+- Start Unit 3 Portfolio
 
 ### Monday, Nov 9
 - "AI slop" article and discussion (journal postponed)
