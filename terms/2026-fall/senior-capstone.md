@@ -8,7 +8,9 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 11** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Write the manipulation paper (graded, TypeWriter)
 
 ---
 

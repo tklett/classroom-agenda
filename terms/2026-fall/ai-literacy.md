@@ -8,7 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 11** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Continue Unit 3 Portfolio
+- AI credential certificate work time (Cisco, Google)
 
 ---
 

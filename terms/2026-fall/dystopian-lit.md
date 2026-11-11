@@ -8,7 +8,10 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 11** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Finish the Society Paper
+- MLA in-text citation/Works Cited quick-reference and quick check
 
 ---
 
