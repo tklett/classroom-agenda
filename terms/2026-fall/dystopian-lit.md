@@ -8,15 +8,16 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 11** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish the Society Paper
-- MLA in-text citation/Works Cited quick-reference and quick check
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Wednesday, Nov 11
+- Finished the Society Paper
+- MLA in-text citation/Works Cited quick-reference and quick check
 
 ### Tuesday, Nov 10
 - Start final paper formatting (Society Paper) — Google Doc in Google Classroom

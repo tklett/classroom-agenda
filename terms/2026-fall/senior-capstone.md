@@ -8,14 +8,16 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 11** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Write the manipulation paper (graded, TypeWriter)
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Wednesday, Nov 11
+- Wrote the manipulation paper (graded, TypeWriter)
+- Reference notes: tactics (hints then backing off, planted proof, staged scene, cutting off other voices, borrowed trust, discrediting the target); quotation marks only for words copied from the Shakespeare text; *Gaslight* scene key (the recital is the watch, the brooch is the Tower scene)
 
 ### Tuesday, Nov 10
 - Final Writing Preparation: notes using your packets, viewing notes, playbook, and gallery-walk notes — turned in at end of class
