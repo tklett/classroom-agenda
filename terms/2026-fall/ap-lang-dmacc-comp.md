@@ -8,15 +8,16 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Continue NoodleTools practice project
-- Research teams
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
+
+### Thursday, Nov 12
+- Continued the NoodleTools practice project
+- Formed Ethics Bowl research teams
 
 ### Wednesday, Nov 11
 - Accessing DMACC Library Databases and NoodleTools — built a practice source list
