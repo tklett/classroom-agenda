@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 12** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Continue NoodleTools practice project
+- Research teams
 
 ---
 
