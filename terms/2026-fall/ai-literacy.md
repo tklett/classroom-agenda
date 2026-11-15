@@ -8,7 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- The Hundred Posters Problem: groups generate posters for a shared brief, then pick one and defend it against two rejects
+  > Exit question: What was the most human moment of today's work?
 
 ---
 
