@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Start *Siddhartha* — Read & Mark: read Chapter 1 independently, marking passages with sticky notes
+  > **!** a passage you want to share with the class. **?** a passage that confuses you or raises a question. Write a few words on each note.
 
 ---
 
