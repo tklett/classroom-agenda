@@ -8,7 +8,11 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Monday, Nov 16** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Ethics Bowl Research, Day 1 of 3: set your research question, start searching
+  > Create your NoodleTools project. Pick your research question from your case's discussion questions and log it. Draft a working stance as a group (or solo) — where do you currently lean? Start searching: skim for plausibly useful sources and log each one right away with a full citation and a sentence on why it might matter.
+  > Checkpoint by end of day: project created, research question logged, working stance drafted, at least 2 sources logged.
 
 ---
 
