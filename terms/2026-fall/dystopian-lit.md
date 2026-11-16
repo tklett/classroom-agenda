@@ -13,6 +13,14 @@ title: Dystopian Literature — Agenda
 ---
 
 <details markdown="1" open>
+<summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Monday, Nov 16
+- Read *Fahrenheit 451* (finish Part 1 before Friday)
+
+</details>
+
+<details markdown="1">
 <summary><strong>Week 12 (Nov 9–13)</strong></summary>
 
 ### Thursday, Nov 12
