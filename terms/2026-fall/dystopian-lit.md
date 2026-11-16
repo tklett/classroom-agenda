@@ -16,6 +16,7 @@ title: Dystopian Literature — Agenda
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
 
 ### Monday, Nov 16
+- Background: America and the 1950s (Bradbury, the Red Scare, rise of TV)
 - Read *Fahrenheit 451* (finish Part 1 before Friday)
 
 </details>
