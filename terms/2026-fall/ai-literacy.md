@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Images Make Arguments: The Ad Council Expedition — pairs analyze two assets from one campaign, then compare formats
 
 ---
 
