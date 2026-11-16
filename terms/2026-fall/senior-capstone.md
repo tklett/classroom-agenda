@@ -17,7 +17,6 @@ title: Senior Capstone — Agenda
 
 ### Monday, Nov 16
 - Read & Mark: read Chapter 1 of *Siddhartha* independently, marking passages with sticky notes
-  > **!** a passage you want to share with the class. **?** a passage that confuses you or raises a question. Write a few words on each note.
 
 </details>
 
