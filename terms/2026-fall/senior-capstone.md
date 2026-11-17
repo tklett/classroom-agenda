@@ -8,7 +8,10 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Tuesday, Nov 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Read Chapters 2-3 of *Siddhartha*, marking with sticky notes
+- The Buddha: how the novel's hero and the historical Buddha share a name, then a short video clip
 
 ---
 
