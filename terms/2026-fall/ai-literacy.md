@@ -8,7 +8,9 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Self-review and revise your Ad Council deck, then swap with another pair for peer rubric scoring
 
 ---
 
