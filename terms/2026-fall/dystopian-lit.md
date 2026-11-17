@@ -8,14 +8,17 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Read *Fahrenheit 451* (finish Part 1 before Friday)
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Tuesday, Nov 17
+- Libraries in the Crosshairs: McCarthy's 1953 investigation of "communist subversion" in overseas libraries
+  > Discussion: What's the difference between burning a book and just suspecting people of owning one?
+- Read *Fahrenheit 451* (finish Part 1 before Friday)
 
 ### Monday, Nov 16
 - Background: America and the 1950s (Bradbury, the Red Scare, rise of TV)

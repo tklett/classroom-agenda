@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Images Make Arguments: The Ad Council Expedition — pairs analyze two assets from one campaign, then compare formats
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Tuesday, Nov 17
+- Images Make Arguments: The Ad Council Expedition — pairs built their slide decks; review of the slides moved to Wednesday since some pairs needed more time
 
 ### Monday, Nov 16
 - The Hundred Posters Problem: groups generate posters for a shared brief, then pick one and defend it against two runner-ups, shared as a Google Slides deck

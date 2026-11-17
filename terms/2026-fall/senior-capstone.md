@@ -8,15 +8,16 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Tuesday, Nov 17** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Read Chapters 2-3 of *Siddhartha*, marking with sticky notes
-- The Buddha: how the novel's hero and the historical Buddha share a name, then a short video clip
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Tuesday, Nov 17
+- Read Chapters 2-3 of *Siddhartha*, marking with sticky notes
+- The Buddha: how the novel's hero and the historical Buddha share a name, then a short video clip
 
 ### Monday, Nov 16
 - Read & Mark: read Chapter 1 of *Siddhartha* independently, marking passages with sticky notes
