@@ -8,7 +8,10 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Finish reading Part I of *Fahrenheit 451*
+- Preview Thursday's small-group discussion questions
 
 ---
 
