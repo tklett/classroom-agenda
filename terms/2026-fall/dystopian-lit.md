@@ -8,15 +8,17 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish reading Part I of *Fahrenheit 451*
-- Preview Thursday's small-group discussion questions
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Wednesday, Nov 18
+- Start the Characters Organizer
+- Preview Thursday's small-group discussion questions
+- Read *Fahrenheit 451* (finish Part 1 before Friday)
 
 ### Tuesday, Nov 17
 - Libraries in the Crosshairs: McCarthy's 1953 investigation of "communist subversion" in overseas libraries
