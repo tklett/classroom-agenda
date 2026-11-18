@@ -8,15 +8,14 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Ethics Bowl Research, Day 3 of 3: annotate directly in NoodleTools
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
-
-### Wednesday, Nov 18
-- Ethics Bowl Research, Day 3 of 3: annotate directly in NoodleTools
 
 ### Tuesday, Nov 17
 - Ethics Bowl Research, Day 2 of 3: keep logging sources (solo 4 / group 6 total)

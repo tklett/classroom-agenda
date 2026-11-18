@@ -8,16 +8,15 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Elimination Funnel activity: narrowing a list of ten everyday items down to one, reflecting on what's hardest to give up
+- Read Chapter 4 of *Siddhartha*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
-
-### Wednesday, Nov 18
-- Elimination Funnel activity: narrowing a list of ten everyday items down to one, reflecting on what's hardest to give up
-- Read Chapter 4 of *Siddhartha*
 
 ### Tuesday, Nov 17
 - Read Chapters 2-3 of *Siddhartha*, marking with sticky notes
