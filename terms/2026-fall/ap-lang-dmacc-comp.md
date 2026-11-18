@@ -15,6 +15,9 @@ title: AP Lang / DMACC Comp — Agenda
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
 
+### Wednesday, Nov 18
+- Ethics Bowl Research, Day 3 of 3: annotate directly in NoodleTools
+
 ### Tuesday, Nov 17
 - Ethics Bowl Research, Day 2 of 3: keep logging sources (solo 4 / group 6 total)
 

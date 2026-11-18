@@ -15,6 +15,10 @@ title: Senior Capstone — Agenda
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
 
+### Wednesday, Nov 18
+- Elimination Funnel activity: narrowing a list of ten everyday items down to one, reflecting on what's hardest to give up
+- Read Chapter 4 of *Siddhartha*
+
 ### Tuesday, Nov 17
 - Read Chapters 2-3 of *Siddhartha*, marking with sticky notes
 - The Buddha: how the novel's hero and the historical Buddha share a name, then a short video clip

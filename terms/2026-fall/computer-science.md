@@ -15,6 +15,9 @@ title: Computer Science — Agenda
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
 
+### Wednesday, Nov 18
+- CertMaster work time
+
 ### Tuesday, Nov 17
 - CertMaster work time
 

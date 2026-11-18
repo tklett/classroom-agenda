@@ -8,14 +8,15 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Wednesday, Nov 18** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Self-review and revise your Ad Council deck, then swap with another pair for peer rubric scoring
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Wednesday, Nov 18
+- Ad Council self-review and revise, then swap decks with another pair for peer rubric scoring
 
 ### Tuesday, Nov 17
 - Images Make Arguments: The Ad Council Expedition — pairs built their slide decks; review of the slides moved to Wednesday since some pairs needed more time
