@@ -8,7 +8,10 @@ title: AP Lang / DMACC Comp — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Smooth Annotations: revise your NoodleTools annotations so each one reads as one flowing idea, not three facts stapled together
+- Continue generating the annotated bibliography
 
 ---
 

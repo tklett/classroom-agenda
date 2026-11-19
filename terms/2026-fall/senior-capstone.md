@@ -8,7 +8,11 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Finish reading Chapter 4 of *Siddhartha* if you're behind
+- Partner Retelling: "The Four Stops"
+- Central Question check-in: how do Chapters 1–4 add to, change, or complicate your thinking?
 
 ---
 

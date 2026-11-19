@@ -8,7 +8,10 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Image Generation Check: pick 3 prompts, generate each with two different tools, and compare what the defaults assume
+- Work time on Google and/or Cisco certification courses
 
 ---
 

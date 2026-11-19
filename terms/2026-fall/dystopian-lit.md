@@ -8,7 +8,9 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Part I small-group discussion: vocab check, Characters talk, Subjectivity review
 
 ---
 
