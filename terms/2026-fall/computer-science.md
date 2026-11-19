@@ -8,14 +8,15 @@ title: Computer Science — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- CertMaster work time
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Thursday, Nov 19
+- CertMaster work time
 
 ### Wednesday, Nov 18
 - CertMaster work time

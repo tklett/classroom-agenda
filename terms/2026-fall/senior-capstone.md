@@ -8,16 +8,17 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Finish reading Chapter 4 of *Siddhartha* if you're behind
-- Partner Retelling: "The Four Stops"
-- Central Question check-in: how do Chapters 1–4 add to, change, or complicate your thinking?
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Thursday, Nov 19
+- Finish reading Chapter 4 of *Siddhartha* if you're behind
+- Partner Retelling: "The Four Stops"
+- Central Question check-in: how do Chapters 1–4 add to, change, or complicate your thinking?
 
 ### Wednesday, Nov 18
 - Elimination Funnel activity: narrowing a list of ten everyday items down to one, reflecting on what's hardest to give up

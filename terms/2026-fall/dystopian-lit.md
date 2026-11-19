@@ -8,14 +8,15 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Thursday, Nov 19** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Part I small-group discussion: vocab check, Characters talk, Subjectivity review
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Thursday, Nov 19
+- Part I small-group discussion: vocab check, Characters talk, Subjectivity review
 
 ### Wednesday, Nov 18
 - Start the Characters Organizer
