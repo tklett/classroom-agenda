@@ -8,14 +8,17 @@ title: AI Literacy — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Image Generation follow-up
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Friday, Nov 20
+- Image Generation follow-up: what patterns showed up in the class's own results
+- TypeWriter reflection: "Navigating What You Can't Verify"
+- Cisco/Google certification work time
 
 ### Thursday, Nov 19
 - Image Generation Check: pick 3 prompts, generate each with two different tools, and compare what the defaults assume

@@ -8,14 +8,16 @@ title: Dystopian Literature — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Part I Checkpoint
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Friday, Nov 20
+- Part I Checkpoint
+- Revise and turn in your Hunger Games Society Paper
 
 ### Thursday, Nov 19
 - Part I small-group discussion: vocab check, Characters talk, Subjectivity review

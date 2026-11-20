@@ -8,14 +8,15 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-**Friday, Nov 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
-
-- Checkpoint 1: Chapters 1–4
+*Not yet planned. Check back soon.*
 
 ---
 
 <details markdown="1" open>
 <summary><strong>Week 13 (Nov 16–20)</strong></summary>
+
+### Friday, Nov 20
+- Checkpoint 1: Chapters 1–4
 
 ### Thursday, Nov 19
 - Finish reading Chapter 4 of *Siddhartha* if you're behind
