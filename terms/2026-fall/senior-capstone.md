@@ -8,7 +8,9 @@ title: Senior Capstone — Agenda
 [← Back to all classes](../../index.html)
 
 ## Next Class
-*Not yet planned. Check back soon.*
+**Friday, Nov 20** — *Plan, not yet confirmed. Check back after class for what actually happened.*
+
+- Checkpoint 1: Chapters 1–4
 
 ---
 
